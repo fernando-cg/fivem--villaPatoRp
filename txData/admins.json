@@ -1,0 +1,21 @@
+[
+  {
+    "name": "fernandocg",
+    "master": true,
+    "password_hash": "$2a$11$qEwEzk9pFF0g9..f.4m7E.fXkNDIORbDu//EUT4w54X/UpTUoXuxG",
+    "providers": {
+      "citizenfx": {
+        "id": "fernandocg",
+        "identifier": "fivem:1058321",
+        "data": {
+          "sub": "8003a132d0ed41619b8c837d33433ea9",
+          "nameid": "https://forum.cfx.re/internal/user/1058321",
+          "name": "fernandocg",
+          "picture": "https://avatars.discourse.org/v4/letter/f/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/fernandocg"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
