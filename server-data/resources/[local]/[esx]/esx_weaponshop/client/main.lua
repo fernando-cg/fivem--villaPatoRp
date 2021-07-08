@@ -219,7 +219,12 @@ Citizen.CreateThread(function()
 							if hasWeaponLicense then
 								OpenShopMenu(CurrentActionData.zone)
 							else
-								OpenBuyLicenseMenu(CurrentActionData.zone)
+								exports['t-notify']:Custom({
+									style  =  'error',
+									duration  =  10500,
+									message  =  'No Tienes licencia de armas dirigite a la comisaria para recibir una.',
+									sound  =  true
+								})
 							end
 						end, GetPlayerServerId(PlayerId()), 'weapon')
 					else

@@ -78,6 +78,7 @@ Locales['es'] = {
   ['license_revoke'] = 'Remover licencia',
   ['license_revoked'] = 'Su ~b~%s~s~ ha sido ~y~revoked~s~!',
   ['licence_you_revoked'] = 'Usted ha removido ~b~%s~s~ que pertenece a ~y~%s~s~',
+  ['licencia_de_armas'] = 'Dar licencia de armas',
   ['no_players_nearby'] = 'no hay jugadores cerca',
   ['being_searched'] = 'Usted esta siendo ~y~searched~s~ por la ~b~Police~s~',
   -- Vehicle interaction

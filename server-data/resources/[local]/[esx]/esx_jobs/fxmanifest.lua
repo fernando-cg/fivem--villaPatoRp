@@ -18,7 +18,6 @@ server_scripts {
 	'locales/de.lua',
 	'config.lua',
 
-	'jobs/fisherman.lua',
 	'jobs/fueler.lua',
 	'jobs/lumberjack.lua',
 	'jobs/miner.lua',

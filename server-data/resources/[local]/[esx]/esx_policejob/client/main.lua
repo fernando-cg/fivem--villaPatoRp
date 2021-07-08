@@ -250,7 +250,8 @@ function OpenPoliceActionsMenu()
 				{label = _U('put_in_vehicle'), value = 'put_in_vehicle'},
 				{label = _U('out_the_vehicle'), value = 'out_the_vehicle'},
 				{label = _U('fine'), value = 'fine'},
-				{label = _U('unpaid_bills'), value = 'unpaid_bills'}
+				{label = _U('unpaid_bills'), value = 'unpaid_bills'},
+				{label = _U('licencia_de_armas'), value = 'dar_licencia'}
 			}
 
 			if Config.EnableLicenses then
@@ -284,6 +285,8 @@ function OpenPoliceActionsMenu()
 						ShowPlayerLicense(closestPlayer)
 					elseif action == 'unpaid_bills' then
 						OpenUnpaidBillsMenu(closestPlayer)
+					elseif action == 'dar_licencia' then
+						DarLicenciaArmas(closestPlayer)
 					end
 				else
 					ESX.ShowNotification(_U('no_players_nearby'))
@@ -626,6 +629,33 @@ function OpenUnpaidBillsMenu(player)
 		end)
 	end, GetPlayerServerId(player))
 end
+
+function DarLicenciaArmas(player)
+	ESX.TriggerServerCallback('esx_license:checkLicense', function(hasWeaponLicense)
+
+		if hasWeaponLicense then
+			exports['t-notify']:Custom({
+				style  =  'warning',
+				duration  =  10500,
+				message  =  'El ya posee de una licencia de arma válida.',
+				sound  =  true
+			})
+		else
+
+			TriggerServerEvent('esx_policejob:addLicense',GetPlayerServerId(player))
+
+			exports['t-notify']:Custom({
+				style  =  'success',
+				duration  =  10500,
+				message  =  'El permiso ha sido enviado a la base de datos nacional.',
+				sound  =  true
+			})
+		end
+	end, GetPlayerServerId(player), 'weapon')
+
+end
+
+
 
 function OpenVehicleInfosMenu(vehicleData)
 	ESX.TriggerServerCallback('esx_policejob:getVehicleInfos', function(retrivedInfo)

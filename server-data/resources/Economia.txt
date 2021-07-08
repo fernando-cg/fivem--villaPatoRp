@@ -1,0 +1,61 @@
+-Sueldo inicial:20.000
+
+-Empleos:
+
+Erte:450
+
+todos los trabajos:700 todos los trabajos cada 20 min arreglarlo para que te spawnee una lancha
+-leñador: 61
+-camionero esta bien;
+-repartidor (segun la distancia te da mas o menos dinero ver si esta bien)
+
+--policia
+
+-Super intendente:4000
+-Comisario:3500
+-Inspector:3000
+-Sub inspector:2500
+-Teniente:2000
+-oficial:1500
+-Recluta:1000
+
+--EMS
+-Jefe de Cruz Roja:4000
+-cirujano3500
+-medico de seccion:2500
+-medico:2000
+-Auxiliar:1500
+
+--mecanico:
+
+-Jefe de Mecanicos:5000
+-2º del mecanico Jefe: 3000
+-Mecanico:2000
+-Aprendiz:1500
+-novato:1000
+
+--Taxi
+-Jefe de taxi:3500
+-Sub Jefe:3000
+-Taxista:2500
+
+-Permiso de armas: 2500
+
+-robo a joyeria: bien
+
+-robo a flekka: bien
+
+-robo a tienda bien;
+
+-economia drogas bien
+
+
+pistola: 15000
+
+bate: 2000
+
+linterna:1500
+
+palo de golf:1500
+
+navaja:5000

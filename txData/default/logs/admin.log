@@ -303,3 +303,103 @@
 [18:47:30][127.0.0.1][fernandocg] ensure "utk_fleeca"
 [18:49:19][127.0.0.1][fernandocg] ensure "utk_fleeca"
 [18:50:27][127.0.0.1][fernandocg] ensure "utk_fleeca"
+
+================================================================
+======== txAdmin starting - 5/7/2021 22:10:13
+================================================================
+[22:20:14][127.0.0.1][fernandocg] ensure "utk_fleeca"
+[22:23:17][127.0.0.1][fernandocg] ensure "utk_fleeca"
+[22:38:39][127.0.0.1][fernandocg] refresh
+[22:38:45][127.0.0.1][fernandocg] ensure "vMenu"
+[22:40:14][127.0.0.1][fernandocg] ensure "t-notify"
+[22:40:15][127.0.0.1][fernandocg] stop "mythic_notify"
+[22:40:24][127.0.0.1][fernandocg] ensure "utk_fleeca"
+[22:42:59][127.0.0.1][fernandocg] ensure "utk_fleeca"
+[23:09:29][127.0.0.1][fernandocg] ensure "utk_fleeca"
+[23:33:23][127.0.0.1][fernandocg] RESTART SERVER
+[23:34:57][127.0.0.1][fernandocg] ensure "vMenu"
+[23:38:17][127.0.0.1][fernandocg] ensure "esx_knatusrobberybank"
+[23:54:37][127.0.0.1][fernandocg] refresh
+[23:54:43][127.0.0.1][fernandocg] ensure "st-cctv"
+[23:59:31][127.0.0.1][fernandocg] DM to #4: kk
+[00:10:57][127.0.0.1][fernandocg] RESTART SERVER
+[00:11:49][127.0.0.1][fernandocg] ensure "vMenu"
+[00:25:53][127.0.0.1][fernandocg] ensure "drones"
+[00:26:24][127.0.0.1][fernandocg] ensure "drones_stream"
+[00:26:48][127.0.0.1][fernandocg] ensure "drones"
+[00:29:59][127.0.0.1][fernandocg] refresh
+[00:30:05][127.0.0.1][fernandocg] ensure "meta_libs"
+[00:30:11][127.0.0.1][fernandocg] ensure "drones"
+[00:34:23][127.0.0.1][fernandocg] ensure "drones"
+[02:40:41][127.0.0.1][fernandocg] RESTART SERVER
+[02:42:08][127.0.0.1][fernandocg] ensure "vMenu"
+
+================================================================
+======== txAdmin starting - 6/7/2021 14:20:30
+================================================================
+[14:34:09][127.0.0.1][fernandocg] RESTART SERVER
+[14:43:26][127.0.0.1][fernandocg] RESTART SERVER
+[14:58:20][127.0.0.1][fernandocg] ensure "vMenu"
+[15:12:27][127.0.0.1][fernandocg] refresh
+[15:13:21][127.0.0.1][fernandocg] refresh
+[15:13:30][127.0.0.1][fernandocg] ensure "r8ppi"
+[15:22:41][127.0.0.1][fernandocg] refresh
+[15:22:53][127.0.0.1][fernandocg] ensure "2020exc"
+[16:39:51][127.0.0.1][fernandocg] refresh
+[16:39:56][127.0.0.1][fernandocg] ensure "r820"
+[16:58:36][127.0.0.1][fernandocg] RESTART SERVER
+[17:03:26][127.0.0.1][fernandocg] ensure "Nissan97"
+[17:03:35][127.0.0.1][fernandocg] ensure "nisaltima"
+[17:03:41][127.0.0.1][fernandocg] ensure "vMenu"
+
+================================================================
+======== txAdmin starting - 7/7/2021 1:31:31
+================================================================
+[01:36:27][127.0.0.1][fernandocg] ensure "vMenu"
+
+================================================================
+======== txAdmin starting - 7/7/2021 13:33:15
+================================================================
+[13:47:44][127.0.0.1][fernandocg] ensure "vMenu"
+[14:31:48][127.0.0.1][fernandocg] ensure "tm1_mafias"
+[15:04:00][127.0.0.1][fernandocg] refresh
+[15:04:08][127.0.0.1][fernandocg] ensure "tm1_farm"
+[15:37:13][127.0.0.1][fernandocg] ensure "tm1_farm"
+[15:40:23][127.0.0.1][fernandocg] ensure "tm1_farm"
+[15:42:48][127.0.0.1][fernandocg] ensure "tm1_farm"
+[15:44:06][127.0.0.1][fernandocg] ensure "tm1_farm"
+[19:01:24][127.0.0.1][fernandocg] Kicked #6: no reason provided
+[19:07:21][127.0.0.1][fernandocg] refresh
+[19:07:30][127.0.0.1][fernandocg] ensure "esx_vehiclelock"
+[19:19:47][127.0.0.1][fernandocg] refresh
+[19:19:54][127.0.0.1][fernandocg] ensure "es_carwash"
+[19:27:45][127.0.0.1][fernandocg] STOP SERVER
+
+================================================================
+======== txAdmin starting - 8/7/2021 1:19:55
+================================================================
+[01:25:35][127.0.0.1][fernandocg] STOP SERVER
+[02:08:52][127.0.0.1][fernandocg] START SERVER
+[02:10:20][127.0.0.1][fernandocg] STOP SERVER
+[02:11:18][127.0.0.1][fernandocg] START SERVER
+[02:21:50][127.0.0.1][fernandocg] ensure "vMenu"
+[04:29:22][127.0.0.1][fernandocg] ensure "esx_weaponshop"
+
+================================================================
+======== txAdmin starting - 8/7/2021 11:33:01
+================================================================
+[11:38:39][127.0.0.1][fernandocg] refresh
+[11:38:46][127.0.0.1][fernandocg] ensure "camion1"
+[11:38:46][127.0.0.1][fernandocg] ensure "camion2"
+[12:23:44][127.0.0.1][fernandocg] RESTART SERVER
+[12:31:41][127.0.0.1][fernandocg] RESTART SERVER
+[12:58:45][127.0.0.1][fernandocg] RESTART SERVER
+[13:02:27][127.0.0.1][fernandocg] ensure "vMenu"
+
+================================================================
+======== txAdmin starting - 8/7/2021 14:27:14
+================================================================
+
+================================================================
+======== txAdmin starting - 8/7/2021 14:28:57
+================================================================

@@ -371,8 +371,8 @@ function startJobMission()
 							if IsVehicleModel(GetVehiclePedIsIn(GetPlayerPed(-1), true), GetHashKey("Burrito"))  then
 								local vehicle = GetVehiclePedIsIn(GetPlayerPed(-1), false)
 								deleteCar( vehicle )
-								TriggerEvent('esx:showNotification', 'Toma unos aditivos.')
-								TriggerServerEvent('tm1_mafias:addItem','aditives',2)
+								TriggerEvent('esx:showNotification', 'Toma unas pastillas.')
+								TriggerServerEvent('tm1_mafias:addItem','pastillas',2)
 								RemoveBlip(blip)
 								isInJob = false
 								break

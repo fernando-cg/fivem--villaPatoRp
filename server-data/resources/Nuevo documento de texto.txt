@@ -1,1 +1,32 @@
-traducir cosas policia y cambiar propiedades coches
+Revivir automatico
+añadir renta de bicis-patinete
+poner que la parte de los permisos solo la puendan usar jugadores con rango minimo de inspector para arriba lo de las armas
+cambiar ubicacion primer spawn
+cambiar todo el tema de icono tanto en el menu como para entrar en el servidor o en lo de espera
+radio policia
+bloquear puertas
+añadir mas productos a las tiendas y eso
+coche nuevo policia
+ajustar coches policia
+banco central atraco
+coches mecanico
+quitar el vMenu
+arreglar la imagen del permiso de armas
+meter mapeados y esas cosas
+meter id en la cabeza y al lado
+economia servidor
+meter mejores trabajos
+tema carcel
+cambiar el menu de registro al servidor 
+meter lo de que cuando la gente levante las manos se pueda registrar
+meter que se puedan seguir el rastro a la gente
+meter que la policia pueda comprar los drones
+mirar armas importante luego
+cambiar animaciones de todos los mensajes
+cambiar ui
+arreglar punto de venta concesionario
+arreglar los errores de las fotos que me salen en el movil
+nueva pda
+meter lo de que se estropeen los coches
+añadir que la policia quite permisos a la gente
+Añadir lo de el portaaviones y el el cni

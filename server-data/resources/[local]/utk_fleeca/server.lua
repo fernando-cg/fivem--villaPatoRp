@@ -35,16 +35,16 @@ AddEventHandler("utk_fh:startcheck", function(bank)
                     TriggerClientEvent("utk_fh:outcome", _source, true, bank)
                     TriggerClientEvent("utk_fh:policenotify", -1, bank)
                 else
-                    TriggerClientEvent("utk_fh:outcome", _source, false, "This bank recently robbed. You need to wait "..math.floor((UTK.cooldown - (os.time() - UTK.Banks[bank].lastrobbed)) / 60)..":"..math.fmod((UTK.cooldown - (os.time() - UTK.Banks[bank].lastrobbed)), 60))
+                    TriggerClientEvent("utk_fh:outcome", _source, false, "Este banco ha sido robado hace poco tienes que esperar"..math.floor((UTK.cooldown - (os.time() - UTK.Banks[bank].lastrobbed)) / 60)..":"..math.fmod((UTK.cooldown - (os.time() - UTK.Banks[bank].lastrobbed)), 60))
                 end
             else
-                TriggerClientEvent("utk_fh:outcome", _source, false, "This bank is currently being robbed.")
+                TriggerClientEvent("utk_fh:outcome", _source, false, "Este banco esta siendo robado ahora mismo")
             end
         else
-            TriggerClientEvent("utk_fh:outcome", _source, false, "You don't have a malicious access card.")
+            TriggerClientEvent("utk_fh:outcome", _source, false, "No tienes una tarjeta maliciosa")
         end
     else
-        TriggerClientEvent("utk_fh:outcome", _source, false, "There is not enough police in the city.")
+        TriggerClientEvent("utk_fh:outcome", _source, false, "No hay suficientes policias en la ciudad")
     end
 end)
 

@@ -4,7 +4,7 @@
 -- SI SE DROGA MUCHO QUE MUERA
 local drogado = false
 local addicted = 0
-local pastillas = 0 --pastillas que llevan hasta quedar adictos
+local pastillas = 1 --pastillas que llevan hasta quedar adictos
 local tiempo = 0 
 local efectodroga = 120 --tiempo en segundos que hace efecto la droga
 local shake = 0.8--cada vez que tomo droga este efecto incrementa 

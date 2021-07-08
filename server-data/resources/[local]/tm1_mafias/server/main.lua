@@ -485,12 +485,13 @@ AddEventHandler('tm1_mafias:treatWeed', function()
 	local weed = xPlayer.getInventoryItem('weed')
 	if weed.count >= 3 then
 		Citizen.CreateThread(function ()	
-			TriggerClientEvent('esx:showNotification', _source, "En un rato te mandaré la ubicación de donde te dejaré la marihuana.")
+			TriggerClientEvent('esx:showNotification', _source, "Dame unos segundos y te doy la maria")
 			local quantity = toint(weed.count / 3,0)
 			xPlayer.removeInventoryItem('weed', weed.count)
 			Citizen.Wait(25000)
-			TriggerClientEvent('esx:showNotification', _source, "Ve al sitio en el radar para recoger la marihuana.")
-			TriggerClientEvent('tm1_mafias:getTreatmentWeed',_source,quantity)
+			--TriggerClientEvent('esx:showNotification', _source, "Ve al sitio en el radar para recoger la marihuana.")
+			--TriggerClientEvent('tm1_mafias:getTreatmentWeed',_source,quantity)
+			xPlayer.addInventoryItem("weed_pooch",quantity) -- si quiero que este como antes eliminar esta linea y descomentar las  de arriba
 		end)
 	else
 		TriggerClientEvent('esx:showNotification', source, "No tienes suficiente mercancia.")

@@ -1,5 +1,5 @@
 UTK = {}
-UTK.timer = 30 -- countdown to secure lock in seconds (time needed to pass to door to be closed back)
+UTK.timer = 120 -- countdown to secure lock in seconds (time needed to pass to door to be closed back)
 UTK.hacktime = 0 -- first door open delay to make time for police to arrive and roleplay in miliseconds (I highly recommend to leave it be (2.5 min default))
 UTK.maxcash = 7500 -- maximum amount of cash a pile can hold
 UTK.mincash = 3000 -- minimum amount of cash a pile holds

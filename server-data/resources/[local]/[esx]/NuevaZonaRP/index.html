@@ -1,0 +1,80 @@
+
+
+<link rel="stylesheet" type="text/css" href="1.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+</head>
+<body>
+<script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/blazy.min.js"></script>
+    <script src="js/particles.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <script src="js/jquery-modal-video.min.js"></script>
+    <script src="js/validator.min.js"></script>
+    <script src="js/strider.js"></script>
+<div class="Shape"> 
+	<div style="height: 100%;width: 80%;margin-left: 10%;margin-top: 10%;">
+        <img src="logo.png" height="10%">
+        <div class="ShapeStyle"></div>
+        <div style="margin-top:5%"><a style="font-size:20px;font-family: 'Montserrat', sans-serif;">Activar/Desactivar música <font color="#ff5733"><b>[E]</b></font></a><br><br><a class="Button">Discord.gg/pxgx6c5</a></a><br><br><FONT COLOR="green">Fundador y programador:</FONT> Fer<br><font color="red">Ayudante de programación:</font>Eusebio,Nenier,Lechugo<br></div>
+		</div>
+</div>
+<div class="video-background">
+      <iframe class="videoContainer__video" height="100%" width="180%" src="https://www.youtube.com/embed/dDR9-yvfiAo?controls=0&amp;showinfo=0&amp;rel=0&amp;autoplay=1&amp;loop=1&amp;mute=1" frameborder="0"></iframe>
+ </div>
+ </body>
+	<img id="cursor" src="https://i.imgur.com/m3WGvvD.png" height="35" width="35"/>
+	 <style>
+  #cursor {
+  width: 35px;
+  height: 35px;
+  position: fixed;
+  z-index: 10000;
+  margin-top: 10px;
+  cursor: pointer;
+          }
+  </style>
+    <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-73378277-10'); </script>
+    <audio id="music" src="music/music.mp3" autoplay="true" hidden="true" loop="true"/>
+		<script>
+	
+
+    var play = false;
+    var myAudio = document.getElementById("music");
+    
+    myAudio.volume = 0.9;
+	
+	window.onload = function() 
+	{
+	  document.body.addEventListener("mousemove", function(event)
+	  {
+			var cursor = document.getElementById("cursor");
+
+			var x = event.pageX - cursor.width + 7;
+			var y = event.pageY - 7;
+
+			cursor.style.left = x;
+			cursor.style.top = y;
+	  });
+	}
+	
+    function onKeyDown(event) {
+            switch (event.keyCode) {
+                case 69: //E Button               
+                    if (play) {
+                        myAudio.pause();
+                        play = false;
+                    } else {
+                        myAudio.play();
+                        play = true;
+                    }
+                    break;
+            }
+      return false;
+    }
+    window.addEventListener("keydown", onKeyDown, false);
+    </script>
+</body>
+</html>

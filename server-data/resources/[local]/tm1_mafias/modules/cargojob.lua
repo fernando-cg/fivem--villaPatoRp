@@ -5,7 +5,7 @@ local entrega = {x = -107.72,y = -2536.03,z = 6.0 - 1}
 local delivery = {x = 478.63,y = -3370.6,z = 6.53 - 1}
 local isDeliveried = false
 local playerPed = GetPlayerPed(-1)
-local money = 250
+local money = 2000
 Citizen.CreateThread(function()
 	while true do
 		Citizen.Wait(0)

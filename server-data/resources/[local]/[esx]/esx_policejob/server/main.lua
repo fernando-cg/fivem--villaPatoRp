@@ -9,6 +9,24 @@ end
 TriggerEvent('esx_phone:registerNumber', 'police', _U('alert_police'), true, true)
 TriggerEvent('esx_society:registerSociety', 'police', 'Police', 'society_police', 'society_police', 'society_police', {type = 'public'})
 
+RegisterNetEvent('esx_policejob:addLicense')
+AddEventHandler('esx_policejob:addLicense', function(target)
+	local _source = source
+
+	TriggerEvent('esx_license:addLicense', target, 'weapon', function()
+		TriggerEvent('esx_license:getLicenses', target, function(licenses)
+			TriggerClientEvent('esx_dmvschool:loadLicenses', target, licenses)
+		end)
+	end)
+
+	TriggerClientEvent('t-notify:client:Custom', target, {
+		style  =  'success',
+		duration  =  10500,
+		message  =  'Has recibido la licencia de armas.',
+		sound  =  true
+	})
+
+end)
 RegisterNetEvent('esx_policejob:confiscatePlayerItem')
 AddEventHandler('esx_policejob:confiscatePlayerItem', function(target, itemType, itemName, amount)
 	local _source = source

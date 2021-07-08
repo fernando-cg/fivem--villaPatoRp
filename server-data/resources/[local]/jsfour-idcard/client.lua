@@ -29,7 +29,7 @@ Citizen.CreateThread(function()
 			})
 			open = false
 		end
-		if IsControlJustReleased(0, 168) then
+		if IsControlJustReleased(0, 56) then
 			openMenu()
 		end
 	end

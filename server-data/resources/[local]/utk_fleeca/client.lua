@@ -108,7 +108,12 @@ AddEventHandler("utk_fh:outcome", function(oc, arg)
         Check[arg] = true
         TriggerEvent("utk_fh:startheist", UTK.Banks[arg], arg)
     elseif not oc then
-        exports["mythic_notify"]:SendAlert("error", arg)
+        exports['t-notify']:Alert({
+            style = 'error', 
+            message = 'Error',
+            sound  =  true,
+            duration  =  10500
+        })
     end
 end)
 
@@ -137,7 +142,7 @@ AddEventHandler("utk_fh:startLoot_c", function(data, name)
                         local dst1 = GetDistanceBetweenCoords(pedcoords, data.trolley1.x, data.trolley1.y, data.trolley1.z + 1, true)
 
                         if dst1 < 5 then
-                            DrawText3D(data.trolley1.x, data.trolley1.y, data.trolley1.z+1, "[~r~E~w~] Loot the Cash", 0.40)
+                            DrawText3D(data.trolley1.x, data.trolley1.y, data.trolley1.z+1, "[~r~E~w~] Saquear la sucursal", 0.40)
                             if dst1 < 0.75 and IsControlJustReleased(0, 38) then
                                 TriggerServerEvent("utk_fh:lootup", name, "Loot1")
                                 StartGrab(name)
@@ -149,7 +154,7 @@ AddEventHandler("utk_fh:startLoot_c", function(data, name)
                         local dst1 = GetDistanceBetweenCoords(pedcoords, data.trolley2.x, data.trolley2.y, data.trolley2.z+1, true)
 
                         if dst1 < 5 then
-                            DrawText3D(data.trolley2.x, data.trolley2.y, data.trolley2.z+1, "[~r~E~w~] Loot the Cash", 0.40)
+                            DrawText3D(data.trolley2.x, data.trolley2.y, data.trolley2.z+1, "[~r~E~w~] Saquear la sucursal", 0.40)
                             if dst1 < 1 and IsControlJustReleased(0, 38) then
                                 TriggerServerEvent("utk_fh:lootup", name, "Loot2")
                                 StartGrab(name)
@@ -161,7 +166,7 @@ AddEventHandler("utk_fh:startLoot_c", function(data, name)
                         local dst1 = GetDistanceBetweenCoords(pedcoords, data.trolley3.x, data.trolley3.y, data.trolley3.z+1, true)
 
                         if dst1 < 5 then
-                            DrawText3D(data.trolley3.x, data.trolley3.y, data.trolley3.z+1, "[~r~E~w~] Loot the Cash", 0.40)
+                            DrawText3D(data.trolley3.x, data.trolley3.y, data.trolley3.z+1, "[~r~E~w~] Saquear la sucursal", 0.40)
                             if dst1 < 1 and IsControlJustReleased(0, 38) then
                                 TriggerServerEvent("utk_fh:lootup", name, "Loot3")
                                 StartGrab(name)
@@ -200,7 +205,10 @@ AddEventHandler("utk_fh:policenotify", function(name)
         Citizen.Wait(1)
     end
     if PlayerData.job.name == "police" then
-        exports["mythic_notify"]:SendAlert("inform", "A bank's alarms are triggered!", 10000, {["background-color"] = "#CD472A", ["color"] = "#ffffff"})
+        exports['t-notify']:Alert({
+            style = 'error', 
+            message = 'Han saltado las alarmas de un banco'
+        })
         if not DoesBlipExist(blip) then
             blip = AddBlipForCoord(UTK.Banks[name].doors.startloc.x, UTK.Banks[name].doors.startloc.y, UTK.Banks[name].doors.startloc.z)
             SetBlipSprite(blip, 161)
@@ -246,9 +254,9 @@ AddEventHandler("utk_fh:freezeDoors", function()
 
                         if dst <= 4.0 then
                             if v[i].locked then
-                                DrawText3D(v[i].txtloc[1], v[i].txtloc[2], v[i].txtloc[3], "[~r~E~w~] Unlock the door", 0.40)
+                                DrawText3D(v[i].txtloc[1], v[i].txtloc[2], v[i].txtloc[3], "[~r~E~w~] Desbloquear la puerta", 0.40)
                             elseif not v[i].locked then
-                                DrawText3D(v[i].txtloc[1], v[i].txtloc[2], v[i].txtloc[3], "[~r~E~w~] Lock the door", 0.40)
+                                DrawText3D(v[i].txtloc[1], v[i].txtloc[2], v[i].txtloc[3], "[~r~E~w~] bloquear la puerta", 0.40)
                             end
                             if dst <= 1.5 and IsControlJustReleased(0, 38) then
                                 dooruse = true
@@ -374,9 +382,21 @@ AddEventHandler("utk_fh:reset", function(name, data)
         LootCheck[name][i] = false
     end
     Check[name] = false
-    --exports["mythic_notify"]:SendAlert("error", "VAULT DOOR WILL CLOSE IN 30 SECONDS!")
+    exports['t-notify']:Alert({
+        style = 'info', 
+        message = 'La Puerta se ha bloqueado',
+        sound  =  true,
+        duration  =  10500
+    })
     Citizen.Wait(30000)
-    --exports["mythic_notify"]:SendAlert("error", "VAULT DOOR CLOSING!")
+
+    exports['t-notify']:Alert({
+        style = 'error', 
+        message = 'La Puerta se esta cerrando',
+        sound  =  true,
+        duration  =  10500
+    })
+    
     TriggerServerEvent("utk_fh:toggleVault", name, true)
     TriggerEvent("utk_fh:cleanUp", data, name)
 end)
@@ -401,7 +421,7 @@ AddEventHandler("utk_fh:startheist", function(data, name)
 
     AttachEntityToEntity(IdProp, ped, boneIndex, 0.12, 0.028, 0.001, 10.0, 175.0, 0.0, true, true, false, true, 1, true)
     TaskStartScenarioInPlace(ped, "PROP_HUMAN_ATM", 0, true)
-    exports['progressBars']:startUI(2000, "Using Malicious Card")
+    exports['progressBars']:startUI(2000, "Usando la tarjeta maliciosa")
     Citizen.Wait(1500)
     DetachEntity(IdProp, false, false)
     SetEntityCoords(IdProp, data.prop.first.coords, 0.0, 0.0, 0.0, false)
@@ -412,12 +432,22 @@ AddEventHandler("utk_fh:startheist", function(data, name)
     disableinput = false
     Citizen.Wait(1000)
     Process(UTK.hacktime, "Hack in Progress")
-    --exports["mythic_notify"]:SendAlert("success", "Hacking complete!")
+    exports['t-notify']:Alert({
+        style = 'success', 
+        message = 'El hackeo Ha sido completado',
+        sound  =  true,
+        duration  =  10500
+    })
     PlaySoundFrontend(-1, "ATM_WINDOW", "HUD_FRONTEND_DEFAULT_SOUNDSET")
     TriggerServerEvent("utk_fh:toggleVault", name, false)
     startdstcheck = true
     currentname = name
-    --exports["mythic_notify"]:SendAlert("error", "You have 2 minutes until the security system activation.")
+    exports['t-notify']:Alert({
+        style = 'error', 
+        message = 'La alarma ha saltado (Recuerda esperar a la negociación antes de irte)',
+        sound  =  true,
+        duration  =  10500
+    })
     SpawnTrolleys(data, name)
 end)
 
@@ -473,7 +503,12 @@ function SecondDoor(data, key)
     ClearPedTasksImmediately(ped)
     disableinput = false
     Process(2000, "Accessing the Panel")
-    --exports["mythic_notify"]:SendAlert("success", "Access complete!")
+    exports['t-notify']:Alert({
+        style = 'success', 
+        message = 'Acceso completado',
+        sound  =  true,
+        duration  =  10500
+    })
     PlaySoundFrontend(-1, "ATM_WINDOW", "HUD_FRONTEND_DEFAULT_SOUNDSET")
     --TriggerServerEvent("utk_fh:openDoor", vector3(data.doors.secondloc.x, data.doors.secondloc.y, data.doors.secondloc.z), 3)
     TriggerServerEvent("utk_fh:toggleDoor", key, false)
@@ -645,7 +680,12 @@ Citizen.CreateThread(function()
                             done = true
                             return SecondDoor(UTK.Banks[currentname], currentname)
                         elseif not result then
-                           -- aqui va lo de que no tienes la secure card esa de los cojones exports['mythic_notify']:DoHudText('inform', 'Hype! Custom Styling!', { ['background-color'] = '#ffffff', ['color'] = '#000000' })
+                            exports['t-notify']:Alert({
+                                style = 'error', 
+                                message = 'No tienes la tarjeta de entrada',
+                                sound  =  true,
+                                duration  =  10500
+                            })
                         end
                     end)
                 end
@@ -721,7 +761,7 @@ Citizen.CreateThread(function()
                     --local dst2 = GetDistanceBetweenCoords(coords, v.doors.lockpick.x, v.doors.lockpick.y, v.doors.lockpick.z, true)
 
                     if dst <= 5 and not Check[k] then
-                        DrawText3D(v.doors.startloc.x, v.doors.startloc.y, v.doors.startloc.z, "[~r~E~w~] Start bank heist", 0.40)
+                        DrawText3D(v.doors.startloc.x, v.doors.startloc.y, v.doors.startloc.z, "[~r~E~w~] Iniciar el robo del banco", 0.40)
                         if dst <= 1 and IsControlJustReleased(0, 38) then
                             TriggerServerEvent("utk_fh:startcheck", k)
                         end

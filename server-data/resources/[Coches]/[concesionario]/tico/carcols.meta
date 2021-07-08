@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>
+      <kitName>903_tico_modkit</kitName>
+      <id value="903" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+	<Item>
+          <modelName>tic_bumf_1</modelName>
+          <modShopLabel>DAT3_BUMF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_2</modelName>
+          <modShopLabel>DAT3_BUMF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_3</modelName>
+          <modShopLabel>DAT3_BUMF3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_4</modelName>
+          <modShopLabel>DAT3_BUMF4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_5</modelName>
+          <modShopLabel>DAT3_BUMF5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_6</modelName>
+          <modShopLabel>DAT3_BUMF6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_7</modelName>
+          <modShopLabel>DAT3_BUMF7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_8</modelName>
+          <modShopLabel>DAT3_BUMF8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_9</modelName>
+          <modShopLabel>DAT3_BUMF9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_10</modelName>
+          <modShopLabel>DAT3_BUMF10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_11</modelName>
+          <modShopLabel>DAT3_BUMF11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_12</modelName>
+          <modShopLabel>DAT3_BUMF12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_13</modelName>
+          <modShopLabel>DAT3_BUMF13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_g</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_14</modelName>
+          <modShopLabel>DAT3_BUMF14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_15</modelName>
+          <modShopLabel>DAT3_BUMF15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_16</modelName>
+          <modShopLabel>DAT3_BUMF16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_17</modelName>
+          <modShopLabel>DAT3_BUMF17</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_18</modelName>
+          <modShopLabel>DAT3_BUMF18</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_19</modelName>
+          <modShopLabel>DAT3_BUMF19</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumf_20</modelName>
+          <modShopLabel>DAT3_BUMF20</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_1</modelName>
+          <modShopLabel>DAT3_GRI1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_2</modelName>
+          <modShopLabel>DAT3_GRI2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_3</modelName>
+          <modShopLabel>DAT3_GRI3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_4</modelName>
+          <modShopLabel>DAT3_GRI4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_5</modelName>
+          <modShopLabel>DAT3_GRI5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_6</modelName>
+          <modShopLabel>DAT3_GRI6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_7</modelName>
+          <modShopLabel>DAT3_GRI7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_gri_8</modelName>
+          <modShopLabel>DAT3_GRI8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="3" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_1</modelName>
+          <modShopLabel>DAT3_BOOT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_2</modelName>
+          <modShopLabel>DAT3_BOOT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_3</modelName>
+          <modShopLabel>DAT3_BOOT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_4</modelName>
+          <modShopLabel>DAT3_BOOT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_5</modelName>
+          <modShopLabel>DAT3_BOOT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_6</modelName>
+          <modShopLabel>DAT3_BOOT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_7</modelName>
+          <modShopLabel>DAT3_BOOT7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_9</modelName>
+          <modShopLabel>DAT3_BOOT9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_boot_10</modelName>
+          <modShopLabel>DAT3_BOOT10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_3</modelName>
+          <modShopLabel>DAT3_TRUN3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item> 
+            <Item>misc_c</Item>
+            <Item>misc_e</Item>
+            <Item>extra_4</Item>
+            <Item>seat_dside_r</Item> 
+            <Item>seat_pside_r</Item> 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_4</modelName>
+          <modShopLabel>DAT3_TRUN4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item> 
+            <Item>misc_c</Item>
+            <Item>extra_4</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_1</modelName>
+          <modShopLabel>DAT3_WING1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_2</modelName>
+          <modShopLabel>DAT3_WING2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_3</modelName>
+          <modShopLabel>DAT3_WING3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_4</modelName>
+          <modShopLabel>DAT3_WING4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_5</modelName>
+          <modShopLabel>DAT3_WING5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_6</modelName>
+          <modShopLabel>DAT3_WING6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_7</modelName>
+          <modShopLabel>DAT3_WING7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_wing_8</modelName>
+          <modShopLabel>DAT3_WING8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_1</modelName>
+          <modShopLabel>DAT3_BON1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_2</modelName>
+          <modShopLabel>DAT3_BON2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_3</modelName>
+          <modShopLabel>DAT3_BON3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_4</modelName>
+          <modShopLabel>DAT3_BON4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_5</modelName>
+          <modShopLabel>DAT3_BON5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_6</modelName>
+          <modShopLabel>DAT3_BON6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_7</modelName>
+          <modShopLabel>DAT3_BON7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_8</modelName>
+          <modShopLabel>DAT3_BON8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_bon_9</modelName>
+          <modShopLabel>DAT3_BON9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_1</modelName>
+          <modShopLabel>DAT3_SKIR1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_2</modelName>
+          <modShopLabel>DAT3_SKIR2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_3</modelName>
+          <modShopLabel>DAT3_SKIR3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_4</modelName>
+          <modShopLabel>DAT3_SKIR4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_5</modelName>
+          <modShopLabel>DAT3_SKIR5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_6</modelName>
+          <modShopLabel>DAT3_SKIR6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_skirt_7</modelName>
+          <modShopLabel>DAT3_SKIR7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+         <Item>
+          <modelName>tic_skirt_8</modelName>
+          <modShopLabel>DAT3_SKIR8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_1</modelName>
+          <modShopLabel>DAT3_BUMF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_2</modelName>
+          <modShopLabel>DAT3_BUMF4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_3</modelName>
+          <modShopLabel>DAT3_BUMF5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_4</modelName>
+          <modShopLabel>DAT3_BUMF7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_5</modelName>
+          <modShopLabel>DAT3_BUMF8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_6</modelName>
+          <modShopLabel>DAT3_BUMR6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_7</modelName>
+          <modShopLabel>DAT3_BUMF9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_8</modelName>
+          <modShopLabel>DAT3_BUMF10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_9</modelName>
+          <modShopLabel>DAT3_BUMF11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_10</modelName>
+          <modShopLabel>DAT3_BUMF16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_11</modelName>
+          <modShopLabel>DAT3_BUMF14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_12</modelName>
+          <modShopLabel>DAT3_BUMF15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>reversinglight_r</Item> 
+            <Item>platelight</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_13</modelName>
+          <modShopLabel>DAT3_BUMR13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>platelight</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_14</modelName>
+          <modShopLabel>DAT3_BUMF12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_bumr_15</modelName>
+          <modShopLabel>DAT3_BUMF20</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item> 
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_1</modelName>
+          <modShopLabel>DAT3_EXH1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_2</modelName>
+          <modShopLabel>DAT3_EXH2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+            <Item>exhaust</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_3</modelName>
+          <modShopLabel>DAT3_EXH3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_4</modelName>
+          <modShopLabel>DAT3_EXH4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+            <Item>exhaust</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_5</modelName>
+          <modShopLabel>DAT3_EXH5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+            <Item>exhaust</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_6</modelName>
+          <modShopLabel>DAT3_EXH6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_7</modelName>
+          <modShopLabel>DAT3_EXH7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item> 
+            <Item>exhaust</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_exh_8</modelName>
+          <modShopLabel>DAT3_EXH8</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+            <Item>exhaust</Item> 
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_seat_1</modelName>
+          <modShopLabel>DAT3_SEA1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item> 
+            <Item>seat_dside_r</Item> 
+            <Item>seat_pside_r</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_seat_2</modelName>
+          <modShopLabel>DAT3_SEA2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item> 
+            <Item>misc_e</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_seat_3</modelName>
+          <modShopLabel>DAT3_SEA3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item> 
+            <Item>misc_e</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_seat_4</modelName>
+          <modShopLabel>DAT3_SEA4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item> 
+            <Item>misc_e</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_1</modelName>
+          <modShopLabel>DAT3_DIA1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_2</modelName>
+          <modShopLabel>DAT3_DIA2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_3</modelName>
+          <modShopLabel>DAT3_DIA3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_4</modelName>
+          <modShopLabel>DAT3_DIA4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_l</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_5</modelName>
+          <modShopLabel>DAT3_DIA5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_dial_6</modelName>
+          <modShopLabel>DAT3_DIA6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_1</modelName>
+          <modShopLabel>DAT3_ROO1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_2</modelName>
+          <modShopLabel>DAT3_ROO2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_3</modelName>
+          <modShopLabel>DAT3_BON8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_4</modelName>
+          <modShopLabel>DAT3_ROO4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item> 
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_5</modelName>
+          <modShopLabel>DAT3_ROO5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item> 
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_6</modelName>
+          <modShopLabel>DAT3_ROO6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_7</modelName>
+          <modShopLabel>DAT3_ROO7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+        <Item>
+          <modelName>tic_roof_8</modelName>
+          <modShopLabel>DAT3_ROO8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="1" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_1</modelName>
+          <modShopLabel>DAT3_TRUN1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+            <Item>brakelight_m</Item>
+            <Item>extra_4</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_2</modelName>
+          <modShopLabel>DAT3_TRUN2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+            <Item>misc_e</Item>
+            <Item>extra_4</Item>
+            <Item>seat_dside_r</Item> 
+            <Item>seat_pside_r</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_5</modelName>
+          <modShopLabel>DAT3_TRUN5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+            <Item>misc_e</Item>
+            <Item>extra_4</Item>
+            <Item>seat_dside_r</Item> 
+            <Item>seat_pside_r</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_6</modelName>
+          <modShopLabel>DAT3_TRUN6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+            <Item>misc_e</Item>
+            <Item>extra_4</Item>
+            <Item>seat_dside_r</Item> 
+            <Item>seat_pside_r</Item> 
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+	<Item>
+          <modelName>tic_trun_7</modelName>
+          <modShopLabel>DAT3_TRUN7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>extra_4</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="50" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+      </visibleMods>
+      <linkMods />
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="65" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		    <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+	    	</Item>
+	    	<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+	    	</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+	    	</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+	    	</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+    		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+	    	<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+    		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+    		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+	    	<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+	    	<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="2" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="4" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="6" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="8" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+      </statMods>
+      <slotNames />
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_CAGE</name>
+        </Item>
+      <liveryNames />
+    </Item>
+  </Kits>
+    <Lights>
+    <Item>
+      <id value="903" />	
+      <indicator>
+        <intensity value="0.775000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="80.000000" />
+        <emmissiveBoost value="true" />
+        <color value="0xFFFF8000" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.975000" />
+        <size_far value="0.375000" />
+        <intensity value="0.375000" />
+        <intensity_far value="0.000000" />
+        <color value="0xFFFF8000" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="true" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.975000" />
+        <size_far value="0.375000" />
+        <intensity value="0.375000" />
+        <intensity_far value="0.375000" />
+        <color value="0xFFFF8000" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+
+      <tailLight>
+        <intensity value="0.350000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.800000" />
+        <size_far value="6.000000" />
+        <intensity value="10.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="0" />
+        <distBetweenCoronas_far value="0" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+
+      <headLight>
+        <intensity value="0.775000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.209999" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_oldsquare</textureName>
+        <mirrorTexture value="true" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.100000" />
+        <size_far value="10.000000" />
+        <intensity value="10.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="22" />
+        <distBetweenCoronas_far value="120" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.500000" />
+        <zBias value="0.350000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.000000" />
+        <falloffMax value="0.000000" />
+        <falloffExponent value="0.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="0.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="0" />
+        <distBetweenCoronas_far value="0" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.00000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>tico</name>
+    </Item>
+    </Lights>
+</CVehicleModelInfoVarGlobal>
