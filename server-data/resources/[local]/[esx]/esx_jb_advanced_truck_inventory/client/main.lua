@@ -111,16 +111,16 @@ function openmenuvehicle()
 						  TriggerServerEvent("esx_truck_inventory:getInventory", GetVehicleNumberPlateText(vehFront))
 						  end
 						else
-						   ESX.ShowNotification('Ce coffre est ~r~fermé')
+						   ESX.ShowNotification('El maletero esta ~r~Cerrado')
 					  end
 					end
 				else
-					ESX.ShowNotification('Pas de ~r~véhicule~w~ à proximité')
+					ESX.ShowNotification('No hay ~r~vehículos~w~ cerca')
 				end
 				lastOpen = true
 				GUI.Time  = GetGameTimer()
 			else
-				TriggerEvent('esx:showNotification', "Quelqu'un regarde déja le coffre.")
+				TriggerEvent('esx:showNotification', "Alguien ya está mirando el maletero.")
 			end
 		end, globalplate)
 	end
@@ -326,14 +326,14 @@ AddEventHandler('esx_truck_inventory:getInventoryLoaded', function(inventory,wei
               --  VehicleMaxSpeed(closecar,totalweight,Config.VehicleLimit[GetVehicleClass(closecar)])
 
   				TriggerServerEvent('esx_truck_inventory:addInventoryItem', GetVehicleClass(closecar), GetDisplayNameFromVehicleModel(GetEntityModel(closecar)), GetVehicleNumberPlateText(vehFront), data3.current.value, quantity, data3.current.name, data3.current.type, ownedV)
-                ESX.ShowNotification('Poid du coffre : ~g~'.. Kgweight .. ' Kg / '..MaxVh..' Kg')
+                ESX.ShowNotification('Peso del maletero: ~g~'.. Kgweight .. ' Kg / '..MaxVh..' Kg')
 				Citizen.Wait(500)
 				TriggerServerEvent("esx_truck_inventory:getInventory", GetVehicleNumberPlateText(vehFront))
               else
-                ESX.ShowNotification('Vous avez atteint la limite des ~r~ '..MaxVh..' Kg')
+                ESX.ShowNotification('Has alcanzado el límite de ~r~ '..MaxVh..' Kg')
               end
 			else
-				ESX.ShowNotification('~r~ Quantité invalide')
+				ESX.ShowNotification('~r~ Cantidad invalida')
 			end
 
 				    ESX.UI.Menu.CloseAll()
@@ -382,21 +382,18 @@ AddEventHandler('esx_truck_inventory:getInventoryLoaded', function(inventory,wei
 
           --fin test
 
-
+		  	print(quantity, tonumber(data.current.count),vehFront)
 			if quantity > 0 and quantity <= tonumber(data.current.count) and vehFront > 0 then
-            if not max then
                TriggerServerEvent('esx_truck_inventory:removeInventoryItem', GetVehicleNumberPlateText(vehFront), data.current.value, data.current.type, quantity)
 			   local typeVeh = GetVehicleClass(vehFront)
 			   local MaxVh =(tonumber(Config.VehicleLimit[typeVeh])/1000)
 			   local Itemweight =tonumber(getItemyWeight(data.current.value)) * quantity
 			   local totalweight = tonumber(weight) - Itemweight
 			   local Kgweight =  totalweight/1000
-			   ESX.ShowNotification('Poid du coffre : ~g~'.. Kgweight .. ' Kg / '..MaxVh..' Kg')
-            else
-              ESX.ShowNotification('~r~ Tu en porte trops')
-            end
+			   ESX.ShowNotification('Has alcanzado el límite de: ~g~'.. Kgweight .. ' Kg / '..MaxVh..' Kg')
+
 			    else
-			      ESX.ShowNotification('~r~ Quantité invalide')
+			      ESX.ShowNotification('~r~ Cantidad invalida o quizas no estes lo suficientemente cerca del maletero')
 			    end
 
 			    ESX.UI.Menu.CloseAll()

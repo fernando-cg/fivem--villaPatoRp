@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'es'
+Config.Locale = 'en'
 
 Config.Accounts = {
 	bank = _U('account_bank'),
@@ -12,6 +12,7 @@ Config.StartingAccountMoney = {bank = 20000}
 
 Config.EnableSocietyPayouts = false -- pay from the society account that the player is employed at? Requirement: esx_society
 Config.EnableHud            = false -- enable the default hud? Display current job and accounts (black, bank & cash)
-Config.MaxWeight            = 24   -- the max inventory weight without backpack
-Config.PaycheckInterval     = 1200000  -- how often to recieve pay checks in milliseconds
+Config.MaxWeight            = 300
+   -- the max inventory weight without backpack
+Config.PaycheckInterval     = 1800000  -- how often to recieve pay checks in milliseconds
 Config.EnableDebug          = false

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>map2</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_utility</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>hei_dt1_06_strm_0</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>downtown_01_metadata_008_strm</Item>
+        <Item>int_medical</Item>
+        <Item>v_potted</Item>
+        <Item>v_ext_veg</Item>
+        <Item>v_traffic_lights</Item>
+        <Item>v_seating_tables</Item>
+        <Item>v_bins</Item>
+        <Item>v_utility</Item>
+        <Item>v_rubbish</Item>
+        <Item>v_construction</Item>
+        <Item>v_rooftop</Item>
+        <Item>v_bush</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

@@ -100,7 +100,7 @@ function OpenCloakroomMenu()
 				ESX.TriggerServerCallback('esx_service:isInService', function(isInService)
 					if isInService then
 						playerInService = false
-
+						exports["rp-radio"]:RemovePlayerAccessToFrequencies(1, 2, 3, 4, 5) 
 						local notification = {
 							title    = _U('service_anonunce'),
 							subject  = '',
@@ -130,7 +130,7 @@ function OpenCloakroomMenu()
 						else
 							awaitService = true
 							playerInService = true
-
+							exports["rp-radio"]:GivePlayerAccessToFrequencies(1, 2, 3, 4, 5) 
 							local notification = {
 								title    = _U('service_anonunce'),
 								subject  = '',

@@ -108,7 +108,7 @@ AddEventHandler('esx_truck_inventory:addInventoryItem', function(type, model, pl
                     xPlayer.removeInventoryItem(item, qtty)
                     putInTrunk(plate, qtty, item, name, itemType, ownedV)
                 else
-                    TriggerClientEvent('esx:showNotification', _source, 'quantité invalide')
+                    TriggerClientEvent('esx:showNotification', _source, 'Cantidad inválida')
                 end
             end
             

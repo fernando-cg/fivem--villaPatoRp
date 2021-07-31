@@ -55,8 +55,8 @@ ESX.RegisterServerCallback('esx_weaponshop:buyWeapon', function(source, cb, weap
 			cb(false)
 		else
 			if zone == 'BlackWeashop' then
-				if xPlayer.getAccount('black_money').money >= price then
-					xPlayer.removeAccountMoney('black_money', price)
+				if xPlayer.getAccount('money').money >= price then
+					xPlayer.removeAccountMoney('money', price)
 					xPlayer.addWeapon(weaponName, 42)
 	
 					cb(true)

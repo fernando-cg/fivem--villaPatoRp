@@ -1,405 +1,287 @@
 
 ================================================================
-======== txAdmin starting - 23/6/2021 15:42:43
+======== txAdmin starting - 7/8/2021, 3:44:01 PM
 ================================================================
-[16:06:07][127.0.0.1][fernandocg] Changing global/fxserver settings via setup stepper.
-[16:08:43][127.0.0.1][fernandocg] Changing global settings.
-[16:09:38][127.0.0.1][fernandocg] Changing Player Controller settings.
-[16:09:53][127.0.0.1][fernandocg] Changing discordBot settings.
-[16:12:47][127.0.0.1][fernandocg] Changing discordBot settings.
-[16:13:55][127.0.0.1][fernandocg] Changing discordBot settings.
-[16:35:53][127.0.0.1][fernandocg] RESTART SERVER
-[16:46:13][127.0.0.1][fernandocg] ensure "esx_policejob"
-[16:46:28][127.0.0.1][fernandocg] ensure "esx_voice"
-[16:50:22][127.0.0.1][fernandocg] ensure "esx_advancedgarage"
-[17:21:04][127.0.0.1][fernandocg] refresh
-[17:21:24][127.0.0.1][fernandocg] refresh
-[17:21:30][127.0.0.1][fernandocg] ensure "lc200"
+[15:47:39][127.0.0.1][fernandocg] Changing global/fxserver settings via setup stepper.
+[15:47:55][127.0.0.1][fernandocg] STOP SERVER
+[16:29:08][78.30.45.147][fernandocg] START SERVER
+[16:32:09][78.30.45.147][fernandocg] RESTART SERVER
+[16:35:58][78.30.45.147][fernandocg] RESTART SERVER
+[16:36:32][78.30.45.147][fernandocg] Editing server CFG File.
+[16:36:38][78.30.45.147][fernandocg] RESTART SERVER
+[16:37:39][MONITOR] Restarting server (server close detected).
+[16:39:57][78.30.45.147][fernandocg] RESTART SERVER
+[17:05:57][78.30.45.147][fernandocg] Changing global settings.
+[17:08:22][78.30.45.147][fernandocg] Changing discordBot settings.
+[17:08:33][78.30.45.147][fernandocg] RESTART SERVER
+[17:17:39][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "Chavales estarse por aqui cerca que voy a traer un bus "
+[18:59:02][78.30.45.147][fernandocg] refresh
+[18:59:11][78.30.45.147][fernandocg] ensure "esx_vehiclelock"
+[19:27:54][78.30.45.147][fernandocg] ensure "loaf_housing"
+[19:48:13][78.30.45.147][fernandocg] stop "ewmrpd"
+[19:54:02][78.30.45.147][fernandocg] RESTART SERVER
+[19:58:21][78.30.45.147][fernandocg] RESTART SERVER
+[20:02:20][78.30.45.147][fernandocg] Changing discordBot settings.
+[20:02:30][78.30.45.147][fernandocg] RESTART SERVER
+[20:06:03][78.30.45.147][fernandocg] RESTART SERVER
+[20:12:06][78.30.45.147][fernandocg] STOP SERVER
+[20:20:49][78.30.45.147][fernandocg] START SERVER
+[20:23:15][78.30.45.147][fernandocg] RESTART SERVER
+[20:28:29][78.30.45.147][fernandocg] RESTART SERVER
+[20:37:13][78.30.45.147][fernandocg] RESTART SERVER
+[20:41:30][78.30.45.147][fernandocg] RESTART SERVER
+[20:41:43][78.30.45.147][fernandocg] RESTART SERVER
+[20:56:04][78.30.45.147][fernandocg] DM to #2: illo alfonso que estoy parcheando unas cosas salte porfa que lo voy a reiniciar
+[20:57:34][78.30.45.147][fernandocg] RESTART SERVER
+[20:58:33][78.30.45.147][fernandocg] Editing server CFG File.
+[21:00:07][78.30.45.147][fernandocg] RESTART SERVER
+[21:01:59][78.30.45.147][fernandocg] Editing server CFG File.
+[21:02:03][78.30.45.147][fernandocg] RESTART SERVER
+[21:25:11][78.30.45.147][fernandocg] Changing discordBot settings.
+[21:25:29][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "se va a reiniciar en nada"
+[21:25:50][78.30.45.147][fernandocg] Changing monitor settings.
+[21:25:58][78.30.45.147][fernandocg] RESTART SERVER
+[21:33:30][78.30.45.147][fernandocg] ensure "esx_policejob"
+[21:34:56][78.30.45.147][fernandocg] ensure "esx_policejob"
+[21:45:13][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "chavales veis el hud? "
+[21:46:18][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "puedo reiniciar? "
+[21:48:28][37.29.240.153][fernandocg] RESTART SERVER
+[22:02:44][37.29.240.153][fernandocg] txaBroadcast "fernandocg" "hola soy fer veis la hud del servidor? "
+[23:43:54][78.30.45.147][fernandocg] ensure "esx_policejob"
+[23:45:17][78.30.45.147][fernandocg] ensure "esx_policejob"
+[23:46:56][78.30.45.147][fernandocg] ensure "esx_policejob"
+[23:52:54][78.30.45.147][fernandocg] ensure "esx_policejob"
+[00:08:01][78.30.45.147][fernandocg] ensure "esx_policejob"
+[00:58:38][78.30.45.147][fernandocg] refresh
+[00:58:45][78.30.45.147][fernandocg] ensure "EasyAdmin"
+[01:46:38][78.30.45.147][fernandocg] refresh
+[01:46:45][78.30.45.147][fernandocg] ensure "scoreboard"
+[01:52:06][78.30.45.147][fernandocg] stop "scoreboard"
+[01:52:24][78.30.45.147][fernandocg] ensure "esx_scoreboard"
+[01:57:51][78.30.45.147][fernandocg] ensure "esx_scoreboard"
+[02:51:14][78.30.45.147][fernandocg] Editing server CFG File.
+[05:00:24][MONITOR] Restarting server (scheduled restart at 05:00).
+[13:57:21][78.30.45.147][fernandocg] ensure "esx_ambulancejob"
+[15:09:24][78.30.45.147][fernandocg] RESTART SERVER
+[15:14:56][78.30.45.147][fernandocg] RESTART SERVER
+[15:48:55][78.30.45.147][fernandocg] ensure "mumble-voip"
+[15:48:56][78.30.45.147][fernandocg] ensure "rp-radio"
+[15:53:56][78.30.45.147][fernandocg] ensure "mumble-voip"
+[15:53:57][78.30.45.147][fernandocg] ensure "rp-radio"
+[15:57:05][78.30.45.147][fernandocg] ensure "mumble-voip"
+[15:57:06][78.30.45.147][fernandocg] ensure "rp-radio"
+[15:57:15][78.30.45.147][fernandocg] ensure "rp-radio"
+[15:57:15][78.30.45.147][fernandocg] ensure "mumble-voip"
+[15:58:09][78.30.45.147][fernandocg] RESTART SERVER
+[16:18:51][78.30.45.147][fernandocg] RESTART SERVER
+[16:28:11][78.30.45.147][fernandocg] RESTART SERVER
+[16:33:35][78.30.45.147][fernandocg] ensure "esx_policejob"
+[17:07:06][78.30.45.147][fernandocg] refresh
+[17:07:15][78.30.45.147][fernandocg] ensure "policia"
+[18:58:11][78.30.45.147][fernandocg] refresh
+[18:58:24][78.30.45.147][fernandocg] ensure "camion"
+[19:06:22][78.30.45.147][fernandocg] ensure "esx_policejob"
+[19:15:14][78.30.45.147][fernandocg] refresh
+[19:15:22][78.30.45.147][fernandocg] ensure "citroen"
+[19:25:27][78.30.45.147][fernandocg] refresh
+[19:26:59][78.30.45.147][fernandocg] refresh
+[19:27:06][78.30.45.147][fernandocg] ensure "toyotacnp"
+[19:32:55][78.30.45.147][fernandocg] ensure "esx_policejob"
+[19:40:23][78.30.45.147][fernandocg] refresh
+[19:40:36][78.30.45.147][fernandocg] ensure "camioncnp"
+[19:44:32][78.30.45.147][fernandocg] RESTART SERVER
 
 ================================================================
-======== txAdmin starting - 23/6/2021 20:58:50
+======== txAdmin starting - 7/9/2021, 8:54:12 PM
 ================================================================
-[21:21:52][127.0.0.1][fernandocg] ensure "police2"
-[21:27:07][127.0.0.1][fernandocg] ensure "esx_policejob"
-[21:38:03][127.0.0.1][fernandocg] ensure "esx_policejob"
-[21:39:05][127.0.0.1][fernandocg] ensure "esx_policejob"
-[21:44:20][127.0.0.1][fernandocg] refresh
-[21:44:31][127.0.0.1][fernandocg] ensure "policeb"
-[21:48:25][127.0.0.1][fernandocg] ensure "esx_policejob"
-[22:17:00][127.0.0.1][fernandocg] refresh
-[22:17:06][127.0.0.1][fernandocg] ensure "nimitz"
-[22:35:27][127.0.0.1][fernandocg] refresh
-[22:35:34][127.0.0.1][fernandocg] ensure "helicnp"
-[22:40:53][127.0.0.1][fernandocg] refresh
-[22:41:02][127.0.0.1][fernandocg] ensure "heli"
-[23:26:02][127.0.0.1][fernandocg] RESTART SERVER
-[23:29:13][127.0.0.1][fernandocg] RESTART SERVER
-[00:08:06][127.0.0.1][fernandocg] ensure "heli"
-[00:23:45][127.0.0.1][fernandocg] ensure "esx_advancedgarage"
-[00:36:37][127.0.0.1][fernandocg] RESTART SERVER
-[01:03:28][127.0.0.1][fernandocg] refresh
-[01:03:34][127.0.0.1][fernandocg] RESTART SERVER
-[01:12:32][127.0.0.1][fernandocg] RESTART SERVER
-[01:16:04][127.0.0.1][fernandocg] stop vMenu
-[01:26:18][127.0.0.1][fernandocg] RESTART SERVER
-[01:29:44][127.0.0.1][fernandocg] stop vMenu
-[01:45:39][127.0.0.1][fernandocg] RESTART SERVER
-[01:50:03][127.0.0.1][fernandocg] RESTART SERVER
+[20:55:59][78.30.45.147][fernandocg] RESTART SERVER
+[22:45:58][78.30.45.147][fernandocg] ensure "esx_jobs"
+[22:47:39][78.30.45.147][fernandocg] ensure "esx_jobs"
+[23:34:34][78.30.45.147][fernandocg] ensure "F1ferrari"
+[00:31:36][78.30.45.147][fernandocg] ensure "esx_jobs"
+[00:55:05][78.30.45.147][fernandocg] ensure "esx_jobs"
+[02:31:49][78.30.45.147][fernandocg] RESTART SERVER
+[02:45:02][78.30.45.147][fernandocg] stop "esx_pizza"
+[02:45:10][78.30.45.147][fernandocg] stop "esx_banksecurity"
+[02:49:11][78.30.45.147][fernandocg] stop "esx_ranger"
+[02:51:07][78.30.45.147][fernandocg] ensure "esx_gopostal"
+[02:59:55][78.30.45.147][fernandocg] RESTART SERVER
+[05:00:24][MONITOR] Restarting server (scheduled restart at 05:00).
+[13:59:25][78.30.45.147][fernandocg] refresh
+[13:59:32][78.30.45.147][fernandocg] ensure "Correos"
+[14:03:37][78.30.45.147][fernandocg] RESTART SERVER
+[14:48:24][78.30.45.147][fernandocg] ensure "gopostal_job"
+[14:58:21][78.30.45.147][fernandocg] ensure "gopostal_job"
+[15:01:59][78.30.45.147][fernandocg] ensure "gopostal_job"
+[17:44:07][78.30.45.147][fernandocg] DM to #6: mira el trabajo de cartero a ver que te parece
+[21:27:02][78.30.45.147][fernandocg] RESTART SERVER
+[21:58:32][78.30.45.147][fernandocg] refresh
+[21:58:39][78.30.45.147][fernandocg] stop "ndrp_garbagejob"
+[21:58:40][78.30.45.147][fernandocg] ensure "esx_garbage"
+[21:58:47][78.30.45.147][fernandocg] refresh
+[23:22:48][78.30.45.147][fernandocg] RESTART SERVER
+[23:47:31][78.30.45.147][fernandocg] stop "casaMafia"
+[23:54:27][78.30.45.147][fernandocg] RESTART SERVER
+[00:10:19][78.30.45.147][fernandocg] RESTART SERVER
+[00:22:44][78.30.45.147][fernandocg] RESTART SERVER
+[01:45:36][78.30.45.147][fernandocg] RESTART SERVER
+[02:13:04][78.30.45.147][fernandocg] RESTART SERVER
+[05:00:03][MONITOR] Restarting server (scheduled restart at 05:00).
+[20:06:51][78.30.45.147][fernandocg] ensure "esx_jb_advanced_truck_inventory"
+[20:11:51][78.30.45.147][fernandocg] ensure "mumble-voip"
+[20:14:49][78.30.45.147][fernandocg] ensure "esx_jb_advanced_truck_inventory"
+[20:18:51][78.30.45.147][fernandocg] Editing server CFG File.
+[21:16:02][78.30.45.147][fernandocg] refresh
+[21:17:20][78.30.45.147][fernandocg] ensure "car-scooter"
+[21:17:21][78.30.45.147][fernandocg] ensure "scooterRent"
+[21:24:39][78.30.45.147][fernandocg] ensure "scooterRent"
+[22:35:36][78.30.45.147][fernandocg] ensure "loaf_housing"
+[23:00:15][78.30.45.147][fernandocg] DM to #17: voy
+[23:21:54][78.30.45.147][fernandocg] ensure "scooterRent"
+[23:34:27][78.30.45.147][fernandocg] ensure "scooterRent"
+[23:47:23][78.30.45.147][fernandocg] ensure "scooterRent"
+[23:47:44][78.30.45.147][fernandocg] refresh
+[23:48:47][78.30.45.147][fernandocg] ensure "scooterRent"
+[23:51:04][78.30.45.147][fernandocg] ensure "car-scooter"
+[00:47:28][78.30.45.147][fernandocg] stop "esx_jb_advanced_truck_inventory"
+[00:47:29][78.30.45.147][fernandocg] refresh
+[00:47:43][78.30.45.147][fernandocg] ensure "esx_vehicle_inventory"
+[00:50:20][78.30.45.147][fernandocg] stop "esx_vehicle_inventory"
+[00:50:28][78.30.45.147][fernandocg] ensure "esx_jb_advanced_truck_inventory"
+[01:17:45][78.30.45.147][fernandocg] ensure "esx_jb_advanced_truck_inventory"
+[01:29:43][78.30.45.147][fernandocg] ensure "esx_jb_advanced_truck_inventory"
+[02:07:03][78.30.45.147][fernandocg] ensure "esx_rpchat"
+[02:08:40][78.30.45.147][fernandocg] ensure "esx_rpchat"
+[05:00:43][MONITOR] Restarting server (scheduled restart at 05:00).
+[13:40:36][78.30.45.147][fernandocg] ensure "esx_taximeter"
+[13:53:44][78.30.45.147][fernandocg] ensure "esx_taximeter"
+[13:55:34][78.30.45.147][fernandocg] ensure "esx_taximeter"
+[14:04:18][78.30.45.147][fernandocg] stop "mumble-voip"
+[14:13:00][78.30.45.147][fernandocg] ensure "mumble-voip"
+[14:14:06][78.30.45.147][fernandocg] stop "mumble-voip"
+[15:22:33][78.30.45.147][fernandocg] refresh
+[15:24:00][78.30.45.147][fernandocg] ensure "mumble-voip"
+[15:24:09][78.30.45.147][fernandocg] ensure "rp-radio"
+[15:40:12][78.30.45.147][fernandocg] refresh
+[15:40:20][78.30.45.147][fernandocg] ensure "Furgont1"
+[15:44:43][78.30.45.147][fernandocg] ensure "esx_weaponshop"
+[15:48:15][78.30.45.147][fernandocg] ensure "esx_weaponshop"
+[15:57:03][78.30.45.147][fernandocg] ensure "esx_weaponshop"
+[15:59:46][78.30.45.147][fernandocg] ensure "esx_weaponshop"
+[16:40:17][78.30.45.147][fernandocg] stop "mumble-voip"
+[16:40:57][78.30.45.147][fernandocg] ensure "mumble-voip"
+[16:41:07][78.30.45.147][fernandocg] ensure "rp-radio"
+[16:41:28][78.30.45.147][fernandocg] stop "trew_hud_ui"
+[16:41:41][78.30.45.147][fernandocg] ensure "trew_hud_ui"
+[18:33:30][78.30.45.147][fernandocg] refresh
+[18:34:07][78.30.45.147][fernandocg] ensure "court"
+[18:49:09][78.30.45.147][fernandocg] stop "court"
+[19:02:07][78.30.45.147][fernandocg] refresh
+[19:02:15][78.30.45.147][fernandocg] ensure "cityhallv2"
+[19:47:28][78.30.45.147][fernandocg] refresh
+[19:47:53][78.30.45.147][fernandocg] ensure "autoscool"
+[19:56:19][78.30.45.147][fernandocg] stop "autoscool"
+[19:59:51][78.30.45.147][fernandocg] refresh
+[19:59:58][78.30.45.147][fernandocg] ensure "fibv"
+[20:52:32][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "escribidme por el chat que punto es el q quereis"
+[20:55:30][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "Os vale con que el npc se llama El Richard?"
+[20:56:14][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "jajajajaja es broma"
+[20:56:22][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "lo tengo"
+[21:37:07][78.30.45.147][fernandocg] RESTART SERVER
+[21:38:34][78.30.45.147][fernandocg] RESTART SERVER
+[21:39:18][78.30.45.147][fernandocg] RESTART SERVER
+[05:00:21][MONITOR] Restarting server (scheduled restart at 05:00).
+[12:47:26][78.30.45.147][fernandocg] Banned <license:e76a2b3baae2e8a675d7a62718ddf146aef92dee>: Salirse en medio de un roll
+[18:43:10][78.30.45.147][fernandocg] /kill 34
+[19:03:42][78.30.45.147][fernandocg] Revoked B74R-J362
+[21:21:26][78.30.45.147][fernandocg] Kicked #34: Por PuTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[21:24:00][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "Reinicio en : 3"
+[21:24:06][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "reinicio en 2"
+[21:24:13][78.30.45.147][fernandocg] txaBroadcast "fernandocg" "reinicio en 1"
+[21:24:34][78.30.45.147][fernandocg] txaKickAll "txAdmin Web Panel"
+[21:24:36][78.30.45.147][fernandocg] RESTART SERVER
+[21:25:29][78.30.45.147][fernandocg] RESTART SERVER
+[21:29:12][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[21:32:54][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[22:53:27][78.30.45.147][fernandocg] restart esx_mafiajob
+[22:55:44][78.30.45.147][fernandocg] RESTART SERVER
+[23:06:32][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:07:15][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:09:50][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:10:11][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:15:23][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:30:57][78.30.45.147][fernandocg] restart esx_mafiajob
+[23:56:25][78.30.45.147][fernandocg] restart esx_mafiajob
+[00:00:24][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:19:01][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:22:58][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:30:51][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:32:28][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:35:33][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:37:54][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:39:47][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:42:39][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:50:12][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:55:40][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[01:16:06][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[01:17:34][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[01:36:10][78.30.45.147][fernandocg] refresh
+[01:36:17][78.30.45.147][fernandocg] ensure "barbershop"
+[05:00:01][MONITOR] Restarting server (scheduled restart at 05:00).
+[14:14:13][78.30.45.147][fernandocg] ensure "tm1_mafias"
+[14:16:31][78.30.45.147][fernandocg] Adding admin 'eusebio'.
+[14:58:28][217.217.54.174][eusebio] Kicked #13: Por hortaliza
+[15:08:40][78.30.45.147][fernandocg] refresh
+[15:08:49][78.30.45.147][fernandocg] ensure "esx_barbershop"
+[15:08:56][78.30.45.147][fernandocg] stop "barbershop"
+[15:09:07][78.30.45.147][fernandocg] ensure "esx_thief"
+[15:09:07][78.30.45.147][fernandocg] ensure "esx_tattooshop"
+[15:09:33][78.30.45.147][fernandocg] stop "esx_barbershop"
 
 ================================================================
-======== txAdmin starting - 24/6/2021 12:59:46
+======== txAdmin starting - 7/14/2021, 5:20:38 PM
 ================================================================
-[13:18:40][127.0.0.1][fernandocg] RESTART SERVER
-[13:24:36][127.0.0.1][fernandocg] RESTART SERVER
-[13:26:58][127.0.0.1][fernandocg] RESTART SERVER
-[13:34:34][127.0.0.1][fernandocg] RESTART SERVER
-[13:48:22][127.0.0.1][fernandocg] refresh
-[13:48:51][127.0.0.1][fernandocg] ensure "mountzonah_lift"
-[13:58:22][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[13:59:41][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:00:04][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:01:49][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:04:35][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:07:04][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:12:34][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:13:50][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:14:10][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:14:29][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:29:27][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:33:30][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:34:26][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:36:55][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:48:25][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:50:45][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:52:01][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[14:54:40][127.0.0.1][fernandocg] ensure "esx_policejob"
-[15:00:22][127.0.0.1][fernandocg] refresh
-[15:00:32][127.0.0.1][fernandocg] DM to #3: hola
-[15:00:42][127.0.0.1][fernandocg] Warned #3: ten cuidado
-[15:02:04][127.0.0.1][fernandocg] ensure "ambulancia"
-[15:12:29][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[15:37:43][127.0.0.1][fernandocg] refresh
-[15:37:52][127.0.0.1][fernandocg] ensure "interiormec"
-[15:37:53][127.0.0.1][fernandocg] ensure "mecexter"
-[16:16:48][127.0.0.1][fernandocg] refresh
-[16:17:04][127.0.0.1][fernandocg] RESTART SERVER
-[16:43:23][127.0.0.1][fernandocg] RESTART SERVER
-[17:03:26][127.0.0.1][fernandocg] RESTART SERVER
-[17:12:00][127.0.0.1][fernandocg] STOP SERVER
-[18:52:17][127.0.0.1][fernandocg] START SERVER
-[18:52:47][127.0.0.1][fernandocg] Changing discordBot settings.
-[19:08:54][127.0.0.1][fernandocg] ensure "esx_jb_advanced_truck_inventory"
-[19:09:52][127.0.0.1][fernandocg] ensure "esx_ambulancejob"
-[19:33:15][127.0.0.1][fernandocg] RESTART SERVER
-[19:36:35][127.0.0.1][fernandocg] ensure "esx_lscustom"
-[19:44:21][127.0.0.1][fernandocg] RESTART SERVER
-[19:46:52][127.0.0.1][fernandocg] DM to #2: Guapo
-[20:03:25][127.0.0.1][fernandocg] refresh
-[20:03:33][127.0.0.1][fernandocg] ensure "agacharse"
-[20:06:16][127.0.0.1][fernandocg] refresh
-[20:06:27][127.0.0.1][fernandocg] ensure "animacionsacararma"
-[20:21:22][127.0.0.1][fernandocg] RESTART SERVER
-[20:26:36][127.0.0.1][fernandocg] ensure "dpemotes"
-[20:36:45][127.0.0.1][fernandocg] ensure "taxi"
-[20:38:47][127.0.0.1][fernandocg] ensure "taxi"
-[20:41:07][127.0.0.1][fernandocg] refresh
-[20:41:19][127.0.0.1][fernandocg] ensure "esx_taxijob"
-[20:46:16][127.0.0.1][fernandocg] refresh
-[20:46:21][127.0.0.1][fernandocg] ensure "TakeHostage"
-[21:17:44][127.0.0.1][fernandocg] RESTART SERVER
-[21:23:22][127.0.0.1][fernandocg] RESTART SERVER
-[21:30:03][127.0.0.1][fernandocg] RESTART SERVER
-[21:31:36][127.0.0.1][fernandocg] RESTART SERVER
-[21:37:02][127.0.0.1][fernandocg] stop "el_bwh"
-[21:48:36][127.0.0.1][fernandocg] Kicked #2: no reason provided
-[21:48:46][127.0.0.1][fernandocg] Kicked #1: por puta
-[21:49:00][127.0.0.1][fernandocg] RESTART SERVER
-[22:23:42][127.0.0.1][fernandocg] refresh
-[22:23:47][127.0.0.1][fernandocg] ensure "senalar"
-[22:29:44][127.0.0.1][fernandocg] refresh
-[22:29:51][127.0.0.1][fernandocg] ensure "manosarriba"
-[22:41:47][127.0.0.1][fernandocg] refresh
-[22:50:28][127.0.0.1][fernandocg] refresh
-[22:50:32][127.0.0.1][fernandocg] refresh
-[22:50:36][127.0.0.1][fernandocg] ensure "F1ferrari"
-[00:12:56][127.0.0.1][fernandocg] Banned #9: Por puto
-[00:13:42][127.0.0.1][fernandocg] Revoked B7GF-AJBK
-[00:15:54][127.0.0.1][fernandocg] refresh
-[00:16:09][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[00:18:19][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[00:18:31][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[00:28:37][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[00:54:38][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[00:56:15][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[01:41:05][127.0.0.1][fernandocg] refresh
-[01:41:17][127.0.0.1][fernandocg] ensure "esx_adminplus"
-[01:57:04][127.0.0.1][fernandocg] ensure "esx_lscustom"
-[01:59:54][127.0.0.1][fernandocg] ensure "esx_lscustom"
-[02:09:49][127.0.0.1][fernandocg] refresh
-[02:09:54][127.0.0.1][fernandocg] ensure "esx_banking"
-
-================================================================
-======== txAdmin starting - 26/6/2021 0:32:16
-================================================================
-[00:36:13][127.0.0.1][fernandocg] ensure "vMenu"
-[00:44:52][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[01:03:17][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[01:22:54][127.0.0.1][fernandocg] ensure "F1ferrari"
-[01:25:50][127.0.0.1][fernandocg] refresh
-[01:25:57][127.0.0.1][fernandocg] ensure "esx_lscustom"
-[01:26:14][127.0.0.1][fernandocg] ensure "tm1_mafias"
-
-================================================================
-======== txAdmin starting - 3/7/2021 20:43:04
-================================================================
-[20:49:28][127.0.0.1][fernandocg] stop "warmenu"
-[20:49:28][127.0.0.1][fernandocg] stop "sp_calladmin"
-[20:49:29][127.0.0.1][fernandocg] stop "sp_admin"
-[20:49:42][127.0.0.1][fernandocg] stop "RageUI"
-[20:49:42][127.0.0.1][fernandocg] stop "esx_adminmode"
-[20:49:43][127.0.0.1][fernandocg] stop "esx_spectate"
-[20:49:43][127.0.0.1][fernandocg] stop "menuv"
-[20:49:50][127.0.0.1][fernandocg] stop "nv-reports"
-[20:49:50][127.0.0.1][fernandocg] stop "relisoft_tag"
-[20:50:03][127.0.0.1][fernandocg] ensure "vMenu"
-[21:03:05][127.0.0.1][fernandocg] refresh
-[21:03:13][127.0.0.1][fernandocg] ensure "PoliceVehiclesWeaponDeleter"
-[21:04:12][127.0.0.1][fernandocg] RESTART SERVER
-[21:05:23][127.0.0.1][fernandocg] ensure "vMenu"
-[21:06:23][127.0.0.1][fernandocg] ensure "ewmrpd"
-[21:15:18][127.0.0.1][fernandocg] ensure "PoliceVehiclesWeaponDeleter"
-[21:16:21][127.0.0.1][fernandocg] ensure "ewmrpd"
-[21:22:49][127.0.0.1][fernandocg] refresh
-[21:22:57][127.0.0.1][fernandocg] ensure "nonpcdrop"
-[21:23:02][127.0.0.1][fernandocg] ensure "ewmrpd"
-[21:23:13][127.0.0.1][fernandocg] RESTART SERVER
-[21:27:32][127.0.0.1][fernandocg] ensure "vMenu"
-[21:37:39][127.0.0.1][fernandocg] refresh
-[21:37:45][127.0.0.1][fernandocg] ensure "desactivarservicios"
-[21:39:49][127.0.0.1][fernandocg] refresh
-[21:39:53][127.0.0.1][fernandocg] RESTART SERVER
-[21:40:13][127.0.0.1][fernandocg] ensure "vMenu"
-[21:54:06][127.0.0.1][fernandocg] refresh
-[21:54:12][127.0.0.1][fernandocg] ensure "eliminarp"
-[22:02:57][127.0.0.1][fernandocg] refresh
-[22:03:05][127.0.0.1][fernandocg] ensure "compensarnpc"
-[22:03:24][127.0.0.1][fernandocg] RESTART SERVER
-[22:15:50][127.0.0.1][fernandocg] ensure "vMenu"
-[22:19:38][127.0.0.1][fernandocg] ensure "esx_banking"
-[22:23:26][127.0.0.1][fernandocg] ensure "esx_banking"
-[22:37:56][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[22:41:47][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[22:43:52][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[22:45:40][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[22:53:22][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[23:02:11][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[23:02:45][127.0.0.1][fernandocg] stop "chat-theme-civlifechat"
-[23:03:33][127.0.0.1][fernandocg] ensure "chat-theme-civlifechat"
-[23:08:00][127.0.0.1][fernandocg] stop "esx_rpchat"
-[23:08:20][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[23:08:26][127.0.0.1][fernandocg] stop "chat"
-[23:08:47][127.0.0.1][fernandocg] ensure "chat-theme-gtao"
-[23:09:00][127.0.0.1][fernandocg] ensure "chat"
-[23:09:14][127.0.0.1][fernandocg] refresh
-[23:09:22][127.0.0.1][fernandocg] ensure "chat-theme-civlifechat"
-[23:09:23][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[23:09:53][127.0.0.1][fernandocg] RESTART SERVER
-[23:10:59][127.0.0.1][fernandocg] ensure "vMenu"
-[23:12:51][127.0.0.1][fernandocg] refresh
-[23:12:59][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[23:13:39][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[23:15:21][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[02:16:25][127.0.0.1][fernandocg] ensure "chat"
-[02:16:26][127.0.0.1][fernandocg] ensure "esx_rpchat"
-[02:17:06][127.0.0.1][fernandocg] ensure "chat"
-[02:17:25][127.0.0.1][fernandocg] ensure "chat"
-[02:18:05][127.0.0.1][fernandocg] ensure "chat"
-[02:18:53][127.0.0.1][fernandocg] ensure "chat"
-[02:19:39][127.0.0.1][fernandocg] ensure "chat"
-[02:27:43][127.0.0.1][fernandocg] RESTART SERVER
-[02:29:41][127.0.0.1][fernandocg] ensure "vMenu"
-
-================================================================
-======== txAdmin starting - 4/7/2021 14:19:12
-================================================================
-[14:23:42][127.0.0.1][fernandocg] ensure "vMenu"
-[14:29:44][127.0.0.1][fernandocg] refresh
-[14:29:50][127.0.0.1][fernandocg] ensure "entorno"
-[14:41:33][127.0.0.1][fernandocg] ensure "entorno"
-[14:43:20][127.0.0.1][fernandocg] ensure "entorno"
-[14:45:20][127.0.0.1][fernandocg] ensure "entorno"
-[14:45:54][127.0.0.1][fernandocg] ensure "entorno"
-[14:53:55][127.0.0.1][fernandocg] ensure "entorno"
-[14:54:28][127.0.0.1][fernandocg] ensure "entorno"
-[15:06:52][127.0.0.1][fernandocg] ensure "entorno"
-[15:07:55][127.0.0.1][fernandocg] ensure "entorno"
-[15:10:57][127.0.0.1][fernandocg] ensure "entorno"
-[15:34:35][127.0.0.1][fernandocg] ensure "jsfour-idcard"
-[15:40:51][127.0.0.1][fernandocg] STOP SERVER
-
-================================================================
-======== txAdmin starting - 5/7/2021 1:31:03
-================================================================
-[01:58:50][127.0.0.1][fernandocg] ensure "entorno"
-[02:03:43][127.0.0.1][fernandocg] ensure "entorno"
-[02:05:18][127.0.0.1][fernandocg] ensure "entorno"
-[02:06:34][127.0.0.1][fernandocg] ensure "entorno"
-[02:07:10][127.0.0.1][fernandocg] ensure "entorno"
-[02:21:42][127.0.0.1][fernandocg] ensure "entorno"
-
-================================================================
-======== txAdmin starting - 5/7/2021 15:28:32
-================================================================
-[15:36:37][127.0.0.1][fernandocg] ensure "sg_vip"
-[15:40:31][127.0.0.1][fernandocg] ensure "sg_vip"
-[15:41:32][127.0.0.1][fernandocg] ensure "sg_vip"
-[15:42:42][127.0.0.1][fernandocg] ensure "sg_vip"
-[15:43:54][127.0.0.1][fernandocg] ensure "vMenu"
-[15:44:17][127.0.0.1][fernandocg] ensure "entorno"
-[15:45:21][127.0.0.1][fernandocg] RESTART SERVER
-[15:47:06][127.0.0.1][fernandocg] ensure "sg_vip"
-[15:47:30][127.0.0.1][fernandocg] ensure "vMenu"
-[15:53:21][127.0.0.1][fernandocg] stop "entorno"
-[15:53:32][127.0.0.1][fernandocg] ensure "entorno"
-[15:53:50][127.0.0.1][fernandocg] stop "entorno"
-[15:53:56][127.0.0.1][fernandocg] ensure "entorno"
-[15:56:37][127.0.0.1][fernandocg] stop "entorno"
-[16:01:30][127.0.0.1][fernandocg] ensure "entorno"
-[16:03:36][127.0.0.1][fernandocg] ensure "entorno"
-[16:04:46][127.0.0.1][fernandocg] ensure "entorno"
-[16:06:03][127.0.0.1][fernandocg] ensure "entorno"
-[16:07:22][127.0.0.1][fernandocg] ensure "entorno"
-[16:08:43][127.0.0.1][fernandocg] ensure "entorno"
-[16:39:27][127.0.0.1][fernandocg] RESTART SERVER
-[16:43:26][127.0.0.1][fernandocg] ensure "vMenu"
-[16:52:25][127.0.0.1][fernandocg] ensure "loaf_housing"
-[16:54:01][127.0.0.1][fernandocg] ensure "loaf_housing"
-[16:57:06][127.0.0.1][fernandocg] ensure "loaf_housing"
-[17:21:39][127.0.0.1][fernandocg] ensure "esx_menu_dialog"
-[17:21:39][127.0.0.1][fernandocg] ensure "esx_menu_default"
-[17:26:01][127.0.0.1][fernandocg] ensure "esx_invest"
-[17:26:53][127.0.0.1][fernandocg] ensure "esx_banking"
-[17:29:35][127.0.0.1][fernandocg] refresh
-[17:29:57][127.0.0.1][fernandocg] ensure "esx_vangelico_robbery"
-[17:42:23][127.0.0.1][fernandocg] refresh
-[17:42:30][127.0.0.1][fernandocg] ensure "esx_holdup"
-[17:59:40][127.0.0.1][fernandocg] refresh
-[17:59:46][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:04:23][127.0.0.1][fernandocg] RESTART SERVER
-[18:15:42][127.0.0.1][fernandocg] RESTART SERVER
-[18:31:06][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:34:52][127.0.0.1][fernandocg] refresh
-[18:35:03][127.0.0.1][fernandocg] ensure "mythic_notify"
-[18:35:14][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:39:04][127.0.0.1][fernandocg] refresh
-[18:39:26][127.0.0.1][fernandocg] refresh
-[18:39:52][127.0.0.1][fernandocg] refresh
-[18:39:58][127.0.0.1][fernandocg] ensure "pNotify"
-[18:40:05][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:42:54][127.0.0.1][fernandocg] refresh
-[18:43:02][127.0.0.1][fernandocg] ensure "progressBars"
-[18:43:21][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:45:55][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:47:30][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:49:19][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[18:50:27][127.0.0.1][fernandocg] ensure "utk_fleeca"
-
-================================================================
-======== txAdmin starting - 5/7/2021 22:10:13
-================================================================
-[22:20:14][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[22:23:17][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[22:38:39][127.0.0.1][fernandocg] refresh
-[22:38:45][127.0.0.1][fernandocg] ensure "vMenu"
-[22:40:14][127.0.0.1][fernandocg] ensure "t-notify"
-[22:40:15][127.0.0.1][fernandocg] stop "mythic_notify"
-[22:40:24][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[22:42:59][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[23:09:29][127.0.0.1][fernandocg] ensure "utk_fleeca"
-[23:33:23][127.0.0.1][fernandocg] RESTART SERVER
-[23:34:57][127.0.0.1][fernandocg] ensure "vMenu"
-[23:38:17][127.0.0.1][fernandocg] ensure "esx_knatusrobberybank"
-[23:54:37][127.0.0.1][fernandocg] refresh
-[23:54:43][127.0.0.1][fernandocg] ensure "st-cctv"
-[23:59:31][127.0.0.1][fernandocg] DM to #4: kk
-[00:10:57][127.0.0.1][fernandocg] RESTART SERVER
-[00:11:49][127.0.0.1][fernandocg] ensure "vMenu"
-[00:25:53][127.0.0.1][fernandocg] ensure "drones"
-[00:26:24][127.0.0.1][fernandocg] ensure "drones_stream"
-[00:26:48][127.0.0.1][fernandocg] ensure "drones"
-[00:29:59][127.0.0.1][fernandocg] refresh
-[00:30:05][127.0.0.1][fernandocg] ensure "meta_libs"
-[00:30:11][127.0.0.1][fernandocg] ensure "drones"
-[00:34:23][127.0.0.1][fernandocg] ensure "drones"
-[02:40:41][127.0.0.1][fernandocg] RESTART SERVER
-[02:42:08][127.0.0.1][fernandocg] ensure "vMenu"
-
-================================================================
-======== txAdmin starting - 6/7/2021 14:20:30
-================================================================
-[14:34:09][127.0.0.1][fernandocg] RESTART SERVER
-[14:43:26][127.0.0.1][fernandocg] RESTART SERVER
-[14:58:20][127.0.0.1][fernandocg] ensure "vMenu"
-[15:12:27][127.0.0.1][fernandocg] refresh
-[15:13:21][127.0.0.1][fernandocg] refresh
-[15:13:30][127.0.0.1][fernandocg] ensure "r8ppi"
-[15:22:41][127.0.0.1][fernandocg] refresh
-[15:22:53][127.0.0.1][fernandocg] ensure "2020exc"
-[16:39:51][127.0.0.1][fernandocg] refresh
-[16:39:56][127.0.0.1][fernandocg] ensure "r820"
-[16:58:36][127.0.0.1][fernandocg] RESTART SERVER
-[17:03:26][127.0.0.1][fernandocg] ensure "Nissan97"
-[17:03:35][127.0.0.1][fernandocg] ensure "nisaltima"
-[17:03:41][127.0.0.1][fernandocg] ensure "vMenu"
-
-================================================================
-======== txAdmin starting - 7/7/2021 1:31:31
-================================================================
-[01:36:27][127.0.0.1][fernandocg] ensure "vMenu"
-
-================================================================
-======== txAdmin starting - 7/7/2021 13:33:15
-================================================================
-[13:47:44][127.0.0.1][fernandocg] ensure "vMenu"
-[14:31:48][127.0.0.1][fernandocg] ensure "tm1_mafias"
-[15:04:00][127.0.0.1][fernandocg] refresh
-[15:04:08][127.0.0.1][fernandocg] ensure "tm1_farm"
-[15:37:13][127.0.0.1][fernandocg] ensure "tm1_farm"
-[15:40:23][127.0.0.1][fernandocg] ensure "tm1_farm"
-[15:42:48][127.0.0.1][fernandocg] ensure "tm1_farm"
-[15:44:06][127.0.0.1][fernandocg] ensure "tm1_farm"
-[19:01:24][127.0.0.1][fernandocg] Kicked #6: no reason provided
-[19:07:21][127.0.0.1][fernandocg] refresh
-[19:07:30][127.0.0.1][fernandocg] ensure "esx_vehiclelock"
-[19:19:47][127.0.0.1][fernandocg] refresh
-[19:19:54][127.0.0.1][fernandocg] ensure "es_carwash"
-[19:27:45][127.0.0.1][fernandocg] STOP SERVER
-
-================================================================
-======== txAdmin starting - 8/7/2021 1:19:55
-================================================================
-[01:25:35][127.0.0.1][fernandocg] STOP SERVER
-[02:08:52][127.0.0.1][fernandocg] START SERVER
-[02:10:20][127.0.0.1][fernandocg] STOP SERVER
-[02:11:18][127.0.0.1][fernandocg] START SERVER
-[02:21:50][127.0.0.1][fernandocg] ensure "vMenu"
-[04:29:22][127.0.0.1][fernandocg] ensure "esx_weaponshop"
-
-================================================================
-======== txAdmin starting - 8/7/2021 11:33:01
-================================================================
-[11:38:39][127.0.0.1][fernandocg] refresh
-[11:38:46][127.0.0.1][fernandocg] ensure "camion1"
-[11:38:46][127.0.0.1][fernandocg] ensure "camion2"
-[12:23:44][127.0.0.1][fernandocg] RESTART SERVER
-[12:31:41][127.0.0.1][fernandocg] RESTART SERVER
-[12:58:45][127.0.0.1][fernandocg] RESTART SERVER
-[13:02:27][127.0.0.1][fernandocg] ensure "vMenu"
-
-================================================================
-======== txAdmin starting - 8/7/2021 14:27:14
-================================================================
-
-================================================================
-======== txAdmin starting - 8/7/2021 14:28:57
-================================================================
+[17:21:51][78.30.45.147][fernandocg] RESTART SERVER
+[17:22:12][78.30.45.147][fernandocg] RESTART SERVER
+[19:45:40][78.30.45.147][fernandocg] RESTART SERVER
+[19:46:34][78.30.45.147][fernandocg] RESTART SERVER
+[20:10:38][78.30.45.147][fernandocg] ensure "F1ferrari"
+[21:12:29][78.30.45.147][fernandocg] ensure "hypnonema"
+[21:13:02][78.30.45.147][fernandocg] RESTART SERVER
+[22:00:24][46.222.253.22][fernandocg] ensure "esx_mafiajob"
+[00:36:42][217.217.54.174][eusebio] Kicked #10: Por matar fuerda de rol
+[00:37:29][78.30.45.147][fernandocg] RESTART SERVER
+[00:50:59][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[00:51:38][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[01:02:38][78.30.45.147][fernandocg] ensure "esx_mafiajob"
+[05:00:56][MONITOR] Restarting server (scheduled restart at 05:00).
+[14:01:43][78.30.45.147][fernandocg] ensure "esx_fbi_job"
+[14:09:18][78.30.45.147][fernandocg] ensure "esx_fbi_job"
+[14:10:42][78.30.45.147][fernandocg] ensure "esx_fbi_job"
+[14:18:29][78.30.45.147][fernandocg] refresh
+[14:18:35][78.30.45.147][fernandocg] ensure "esx_service"
+[14:18:50][78.30.45.147][fernandocg] ensure "esx_fbi_job"
+[15:42:23][78.30.45.147][fernandocg] refresh
+[15:42:30][78.30.45.147][fernandocg] ensure "Kart3"
+[15:54:53][78.30.45.147][fernandocg] refresh
+[15:55:02][78.30.45.147][fernandocg] ensure "KartPolice"
+[16:03:24][78.30.45.147][fernandocg] Kicked #20: no reason provided
+[05:00:33][MONITOR] Restarting server (scheduled restart at 05:00).
+[14:32:01][217.217.54.174][eusebio] Kicked #9: Por estar  afk cabron
+[05:00:14][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:52][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:30][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:09][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:46][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:25][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:03][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:43][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:20][MONITOR] Restarting server (scheduled restart at 05:00).
+[23:13:23][78.30.45.147][fernandocg] Editing server CFG File.
+[23:13:31][78.30.45.147][fernandocg] RESTART SERVER
+[05:00:00][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:38][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:17][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:54][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:33][MONITOR] Restarting server (scheduled restart at 05:00).
+[05:00:11][MONITOR] Restarting server (scheduled restart at 05:00).

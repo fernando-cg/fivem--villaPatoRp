@@ -5,7 +5,9 @@
   },
   "logger": {},
   "monitor": {
-    "restarterSchedule": [],
+    "restarterSchedule": [
+      "05:00"
+    ],
     "restarterScheduleWarnings": [
       30,
       15,
@@ -15,28 +17,27 @@
       3,
       2,
       1
-    ]
+    ],
+    "disableChatWarnings": false
   },
-  "statsCollector": {},
   "playerController": {
     "onJoinCheckBan": true,
     "onJoinCheckWhitelist": false,
-    "minSessionTime": 10,
+    "minSessionTime": 15,
     "whitelistRejectionMessage": "You are not yet whitelisted in this server.\nPlease join http://discord.gg/example.\nYour Request ID: <id>",
     "wipePendingWLOnStart": true
   },
-  "authenticator": {},
   "webServer": {},
   "discordBot": {
     "enabled": true,
-    "token": "NzM4NDM5ODM4MjE4MzIyMDIy.XyL7sA.F3myTPEmrid4q_j_KC-_6d8sIdw",
-    "announceChannel": "728404852572553293",
     "prefix": "/",
-    "statusMessage": "**IP:** `Secreto:<port>`\n**Jugadores:** <players>\n**Tiempo abierto:** <uptime>"
+    "statusMessage": "**IP:** `51.103.85.76:<port>`\n**Players:** <players>\n**Uptime:** <uptime>",
+    "token": "NzM4NDM5ODM4MjE4MzIyMDIy.XyL7sA.F3myTPEmrid4q_j_KC-_6d8sIdw",
+    "announceChannel": "728404852572553293"
   },
   "fxRunner": {
-    "serverDataPath": "C:/Users/fetma/OneDrive/Escritorio/FXServer/server-data/",
-    "cfgPath": "C:/Users/fetma/OneDrive/Escritorio/FXServer/server-data/server.cfg",
-    "autostart": true
+    "autostart": true,
+    "serverDataPath": "C:/Users/fernando/Desktop/FXServer/server-data/",
+    "cfgPath": "C:/Users/fernando/Desktop/FXServer/server-data/server.cfg"
   }
 }

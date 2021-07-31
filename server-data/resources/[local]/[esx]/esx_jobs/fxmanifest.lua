@@ -21,7 +21,7 @@ server_scripts {
 	'jobs/fueler.lua',
 	'jobs/lumberjack.lua',
 	'jobs/miner.lua',
-	'jobs/reporter.lua',
+	--'jobs/reporter.lua',
 	'jobs/slaughterer.lua',
 	'jobs/tailor.lua',
 

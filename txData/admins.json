@@ -2,7 +2,7 @@
   {
     "name": "fernandocg",
     "master": true,
-    "password_hash": "$2a$11$qEwEzk9pFF0g9..f.4m7E.fXkNDIORbDu//EUT4w54X/UpTUoXuxG",
+    "password_hash": "$2a$11$E8oYulmuxi.KZTE6J8KJHOagXWGCP7NEr2KINxqBWYh5Q17gdcX8.",
     "providers": {
       "citizenfx": {
         "id": "fernandocg",
@@ -17,5 +17,17 @@
       }
     },
     "permissions": []
+  },
+  {
+    "name": "eusebio",
+    "master": false,
+    "password_hash": "$2a$11$XV0QRS6AmadhO1wSUQmIY.TLKYnbFCfKTnG8.Ta/lBany0hw2THSK",
+    "password_temporary": true,
+    "providers": {},
+    "permissions": [
+      "players.warn",
+      "players.kick",
+      "players.ban"
+    ]
   }
 ]

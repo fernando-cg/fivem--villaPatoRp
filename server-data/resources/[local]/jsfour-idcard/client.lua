@@ -41,12 +41,12 @@ function openMenu()
 	{
 		title    = 'ID menu',
 		elements = {
-			{label = 'Check your ID', value = 'checkID'},
-			{label = 'Show your ID', value = 'showID'},
-			{label = 'Check your driver license', value = 'checkDriver'},
-			{label = 'Show your driver license', value = 'showDriver'},
-			{label = 'Check your firearms license', value = 'checkFirearms'},
-			{label = 'Show your firearms license', value = 'showFirearms'},
+			{label = 'Ver mi dni', value = 'checkID'},
+			{label = 'Enseñar dni', value = 'showID'},
+			{label = 'Ver mi licencia de conducir', value = 'checkDriver'},
+			{label = 'Enseñar licencia de conducir', value = 'showDriver'},
+			{label = 'Ver mi licencia de armas', value = 'checkFirearms'},
+			{label = 'Enseñar licencia de armas', value = 'showFirearms'},
 		}
 	},
 	function(data, menu)

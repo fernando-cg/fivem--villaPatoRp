@@ -13,6 +13,7 @@ RegisterCommand('pol', function(playerId, args, rawCommand)
 			print('esx_rpchat: you can\'t use this command from console!')
 
 		else
+			args = table.concat(args, ' ')
 			
 			TriggerClientEvent('chat:addMessage', -1, {
 				template = '<div style="padding: 0.5vw; margin: 0.5vw; background-color: rgba( 49, 98, 250 , 0.4); border-radius: 3px;"><img src="https://cdn.discordapp.com/attachments/856996470590668851/861031230664474634/policia.png" width="23" height="23"> &nbsp;  {0}: {1}</div>',
@@ -39,7 +40,8 @@ RegisterCommand('ems', function(playerId, args, rawCommand)
 			print('esx_rpchat: you can\'t use this command from console!')
 
 		else
-			
+			args = table.concat(args, ' ')
+
 			TriggerClientEvent('chat:addMessage', -1, {
 				template = '<div style="padding: 0.5vw; margin: 0.5vw; background-color: rgba( 199, 0, 57 , 0.4); border-radius: 3px;"><img src="https://cdn.discordapp.com/attachments/856996470590668851/861035387123531816/ambulancia.png" width="23" height="23"> &nbsp;  {0}: {1}</div>',
 				args = { "cruz roja" , args }
@@ -65,7 +67,8 @@ RegisterCommand('mecanicomsg', function(playerId, args, rawCommand)
 			print('esx_rpchat: you can\'t use this command from console!')
 
 		else
-			
+			args = table.concat(args, ' ')
+
 			TriggerClientEvent('chat:addMessage', -1, {
 				template = '<div style="padding: 0.5vw; margin: 0.5vw; background-color: rgba( 8, 249, 59 , 0.4); border-radius: 3px;"><img src="https://cdn.discordapp.com/attachments/856996470590668851/861043587683713064/llave.png" width="23" height="23"> &nbsp;  {0}: {1}</div>',
 				args = { "Norauto" , args }
@@ -90,6 +93,8 @@ RegisterCommand('taximsg', function(playerId, args, rawCommand)
 			print('esx_rpchat: you can\'t use this command from console!')
 
 		else
+
+			args = table.concat(args, ' ')
 			
 			TriggerClientEvent('chat:addMessage', -1, {
 				template = '<div style="padding: 0.5vw; margin: 0.5vw; background-color: rgba(  255, 195, 0 , 0.4); border-radius: 3px;"><img src="https://cdn.discordapp.com/attachments/856996470590668851/861045143586471957/taxi-frontal.png" width="23" height="23"> &nbsp;  {0}: {1}</div>',

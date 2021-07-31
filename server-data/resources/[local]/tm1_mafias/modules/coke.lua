@@ -372,7 +372,7 @@ function startJobMission()
 								local vehicle = GetVehiclePedIsIn(GetPlayerPed(-1), false)
 								deleteCar( vehicle )
 								TriggerEvent('esx:showNotification', 'Toma unas pastillas.')
-								TriggerServerEvent('tm1_mafias:addItem','pastillas',2)
+								TriggerServerEvent('tm1_mafias:addItem','pastillas',4)
 								RemoveBlip(blip)
 								isInJob = false
 								break

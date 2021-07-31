@@ -4,9 +4,9 @@ local seller = {name = "El vende trabajo", x = -539.98, y = -1638.05,z = 18.89,r
 local truckspawn = {x = 951.62, y = -2176.21,z = 30.36}
 local cerrajero = {x = 958.83, y = -204.7,z = 72.75 - 1}
 local truckDown = {x = 951.62, y = -2176.21,z = 30.36 - 1}
-local priceScope = 300
-local priceCanion = 300
-local priceCulett = 300
+local priceScope = 600
+local priceCanion = 600
+local priceCulett = 600
 local isInJob = false
 local firstEtape = false
 Citizen.CreateThread(function()
