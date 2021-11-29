@@ -5,4 +5,4 @@ Este es un servidor de gta5 roleplay desarrollado y moderado por mi Los scripts 
 
 Cuando yo empeze no encontre una base ya hecha de donde aprender a si que aqui dejo un ejemplo 
 
-Hecho -> fernando_cg->mrRobot -> 2021
+Hecho -> fernando_cg
